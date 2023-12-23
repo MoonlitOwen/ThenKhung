@@ -98,8 +98,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
 
 ★注意：本中文翻譯並非由官方提供，僅供參考，一切以英文版本爲準。★
 
-版權由解星計劃作者 (https://github.com/Font-Kai/Kaisei) 於2020 年起、
-由宇文滿月 (https://github.com/MoonlitOwen/) 於 2023 年起持有。
+版權由解星計劃作者 (https://github.com/Font-Kai/Kaisei) 自 2020 年起、由宇文滿月 (https://github.com/MoonlitOwen/) 自 2023 年起持有。
 
 本「字型軟件」以《SIL開源字型授權》1.1版授權釋出。
 本授權條款全文副本如下，亦隨《常見問題目錄》（FAQ）於以下網址提供：
