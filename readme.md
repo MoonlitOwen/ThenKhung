@@ -44,4 +44,9 @@
 ## 🌕聯絡滿月
 關於本字型的問題，可以在本專案的[issue](https://github.com/MoonlitOwen/ThenKhung/issues)上提出。
 
-滿月自己是VTuber，平日活躍於YouTube和社交媒體，歡迎瀏覽滿月的連結集：[http://lit.link/moonlitowen](http://lit.link/moonlitowen)，訂閱和追蹤滿月💛💜
+滿月自己是VTuber，平日活躍於YouTube和社交媒體，歡迎瀏覽滿月的連結集：[http://lit.link/moonlitowen](http://lit.link/moonlitowen)，訂閱[滿月的YouTube頻道](https://www.youtube.com/@moonlitowen)和追蹤滿月的社交媒體💛💜
+
+## 🌕鳴謝
+* [解星系列字型](https://github.com/FontKai-Kaisei/Kaisei)
+* [傳承字形標準化文件](https://github.com/ichitenfont/inheritedglyphs)
+* [一點字坊（I.字坊 I.Font Project）](https://github.com/ichitenfont)
