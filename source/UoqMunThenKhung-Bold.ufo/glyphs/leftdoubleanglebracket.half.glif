@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftdoubleanglebracket.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="315" y="831" type="line"/>
+      <point x="104" y="380" type="line"/>
+      <point x="312" y="-79" type="line"/>
+      <point x="274" y="-105" type="line"/>
+      <point x="46" y="380" type="line"/>
+      <point x="273" y="857" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="831" type="line"/>
+      <point x="228" y="380" type="line"/>
+      <point x="436" y="-79" type="line"/>
+      <point x="397" y="-105" type="line"/>
+      <point x="172" y="380" type="line"/>
+      <point x="399" y="858" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

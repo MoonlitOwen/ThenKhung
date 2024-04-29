@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="plus.rotat" format="2">
+  <advance width="1000" height="750"/>
+  <outline>
+    <contour>
+      <point x="453" y="201" type="line"/>
+      <point x="453" y="475" type="line"/>
+      <point x="184" y="475" type="line"/>
+      <point x="184" y="535" type="line"/>
+      <point x="453" y="535" type="line"/>
+      <point x="453" y="808" type="line"/>
+      <point x="512" y="808" type="line"/>
+      <point x="512" y="535" type="line"/>
+      <point x="774" y="535" type="line"/>
+      <point x="774" y="475" type="line"/>
+      <point x="512" y="475" type="line"/>
+      <point x="512" y="201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

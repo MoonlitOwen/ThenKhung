@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingsverticalsingleandleftdouble" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2561"/>
+  <outline>
+    <contour>
+      <point x="556" y="-117" type="line"/>
+      <point x="444" y="-117" type="line"/>
+      <point x="444" y="142" type="line"/>
+      <point x="0" y="142" type="line"/>
+      <point x="0" y="253" type="line"/>
+      <point x="444" y="253" type="line"/>
+      <point x="444" y="513" type="line"/>
+      <point x="0" y="513" type="line"/>
+      <point x="0" y="625" type="line"/>
+      <point x="444" y="625" type="line"/>
+      <point x="444" y="880" type="line"/>
+      <point x="556" y="880" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="greater.half.rotat" format="2">
+  <advance width="1000" height="500"/>
+  <outline>
+    <contour>
+      <point x="395" y="424" type="line"/>
+      <point x="115" y="789" type="line"/>
+      <point x="173" y="789" type="line"/>
+      <point x="395" y="496" type="line"/>
+      <point x="612" y="789" type="line"/>
+      <point x="675" y="789" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

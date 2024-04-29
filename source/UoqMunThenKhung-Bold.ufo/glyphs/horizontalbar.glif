@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="horizontalbar" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="952" y="349" type="line"/>
+      <point x="49" y="349" type="line"/>
+      <point x="49" y="406" type="line"/>
+      <point x="952" y="406" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
