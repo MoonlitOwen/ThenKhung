@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Twelveromannumeral" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="216B"/>
+  <outline>
+    <contour>
+      <point x="615" y="10" type="line"/>
+      <point x="615" y="727" type="line"/>
+      <point x="519" y="727" type="line"/>
+      <point x="342" y="395" type="line"/>
+      <point x="556" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="807" y="10" type="line"/>
+      <point x="807" y="727" type="line"/>
+      <point x="727" y="727" type="line"/>
+      <point x="727" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="975" y="-21" type="line"/>
+      <point x="388" y="-21" type="line"/>
+      <point x="388" y="10" type="line"/>
+      <point x="437" y="10" type="line"/>
+      <point x="281" y="299" type="line"/>
+      <point x="130" y="10" type="line"/>
+      <point x="184" y="10" type="line"/>
+      <point x="184" y="-21" type="line"/>
+      <point x="9" y="-21" type="line"/>
+      <point x="9" y="10" type="line"/>
+      <point x="59" y="10" type="line"/>
+      <point x="244" y="363" type="line"/>
+      <point x="57" y="727" type="line"/>
+      <point x="9" y="727" type="line"/>
+      <point x="9" y="760" type="line"/>
+      <point x="228" y="760" type="line"/>
+      <point x="228" y="727" type="line"/>
+      <point x="180" y="727" type="line"/>
+      <point x="303" y="455" type="line"/>
+      <point x="430" y="727" type="line"/>
+      <point x="372" y="727" type="line"/>
+      <point x="372" y="760" type="line"/>
+      <point x="975" y="760" type="line"/>
+      <point x="975" y="727" type="line"/>
+      <point x="921" y="727" type="line"/>
+      <point x="921" y="10" type="line"/>
+      <point x="975" y="10" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

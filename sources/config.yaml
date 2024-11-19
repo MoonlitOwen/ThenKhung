@@ -1,0 +1,9 @@
+sources:
+  - UoqMunThenKhung.ufo
+familyName: UoqMunThenKhung
+autohintTTF: False
+buildOTF: False
+buildWebfont: False
+buildSmallCap: False
+removeOutlineOverlaps: False
+extraFontmakeArgs: "--production-names"

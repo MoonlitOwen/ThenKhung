@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingsleftlightandrightupheavy.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="499" y="316" type="line"/>
+      <point x="191" y="316" type="line"/>
+      <point x="191" y="360" type="line"/>
+      <point x="0" y="360" type="line"/>
+      <point x="0" y="401" type="line"/>
+      <point x="191" y="401" type="line"/>
+      <point x="191" y="880" type="line"/>
+      <point x="314" y="880" type="line"/>
+      <point x="314" y="439" type="line"/>
+      <point x="499" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

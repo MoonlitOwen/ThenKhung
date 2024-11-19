@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u5360" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5360"/>
+  <outline>
+    <contour>
+      <point x="716" y="303" type="line"/>
+      <point x="285" y="303" type="line"/>
+      <point x="285" y="-8" type="line"/>
+      <point x="607" y="-8" type="line"/>
+      <point x="652" y="-8"/>
+      <point x="716" y="48"/>
+      <point x="716" y="94" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="926" y="629" type="qcurve"/>
+      <point x="926" y="602"/>
+      <point x="887" y="568"/>
+      <point x="861" y="568" type="qcurve"/>
+      <point x="552" y="568" type="line"/>
+      <point x="552" y="349" type="line"/>
+      <point x="846" y="349" type="line"/>
+      <point x="846" y="98" type="line"/>
+      <point x="846" y="34"/>
+      <point x="784" y="-34"/>
+      <point x="687" y="-58"/>
+      <point x="632" y="-58" type="qcurve"/>
+      <point x="163" y="-58" type="line"/>
+      <point x="163" y="349" type="line"/>
+      <point x="431" y="349" type="line"/>
+      <point x="431" y="816" type="line"/>
+      <point x="552" y="816" type="line"/>
+      <point x="552" y="617" type="line"/>
+      <point x="782" y="617" type="line"/>
+      <point x="784" y="649"/>
+      <point x="821" y="697"/>
+      <point x="855" y="697" type="qcurve"/>
+      <point x="884" y="697"/>
+      <point x="926" y="658"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

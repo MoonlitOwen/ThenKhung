@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingslightdiagonalupperlefttolowerright" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2572"/>
+  <outline>
+    <contour>
+      <point x="920" y="-45" type="line"/>
+      <point x="879" y="-84" type="line"/>
+      <point x="73" y="773" type="line"/>
+      <point x="114" y="812" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

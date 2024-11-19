@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="430" y="719" type="line"/>
+      <point x="358" y="719" type="line"/>
+      <point x="249" y="819" type="line"/>
+      <point x="139" y="719" type="line"/>
+      <point x="70" y="719" type="line"/>
+      <point x="212" y="853" type="line"/>
+      <point x="287" y="853" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

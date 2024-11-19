@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingslightquadrupledashvertical.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="271" y="-73" type="line"/>
+      <point x="230" y="-73" type="line"/>
+      <point x="230" y="6" type="line"/>
+      <point x="271" y="6" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="93" type="line"/>
+      <point x="230" y="93" type="line"/>
+      <point x="230" y="173" type="line"/>
+      <point x="271" y="173" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="260" type="line"/>
+      <point x="230" y="260" type="line"/>
+      <point x="230" y="340" type="line"/>
+      <point x="271" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="426" type="line"/>
+      <point x="230" y="426" type="line"/>
+      <point x="230" y="506" type="line"/>
+      <point x="271" y="506" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="593" type="line"/>
+      <point x="230" y="593" type="line"/>
+      <point x="230" y="673" type="line"/>
+      <point x="271" y="673" type="line"/>
+    </contour>
+    <contour>
+      <point x="271" y="759" type="line"/>
+      <point x="230" y="759" type="line"/>
+      <point x="230" y="839" type="line"/>
+      <point x="271" y="839" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

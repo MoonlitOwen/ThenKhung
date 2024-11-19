@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingslighttripledashhorizontal.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="145" y="360" type="line"/>
+      <point x="23" y="360" type="line"/>
+      <point x="23" y="401" type="line"/>
+      <point x="145" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="311" y="360" type="line"/>
+      <point x="189" y="360" type="line"/>
+      <point x="189" y="401" type="line"/>
+      <point x="311" y="401" type="line"/>
+    </contour>
+    <contour>
+      <point x="478" y="360" type="line"/>
+      <point x="355" y="360" type="line"/>
+      <point x="355" y="401" type="line"/>
+      <point x="478" y="401" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

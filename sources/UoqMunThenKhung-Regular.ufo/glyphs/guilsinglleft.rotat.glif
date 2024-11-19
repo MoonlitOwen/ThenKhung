@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="guilsinglleft.rotat" format="2">
+  <advance width="1000" height="300"/>
+  <outline>
+    <contour>
+      <point x="562" y="606" type="line"/>
+      <point x="370" y="776" type="line"/>
+      <point x="176" y="606" type="line"/>
+      <point x="176" y="694" type="line"/>
+      <point x="370" y="851" type="line"/>
+      <point x="562" y="694" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

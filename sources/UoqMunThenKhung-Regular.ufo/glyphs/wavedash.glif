@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="wavedash" format="2">
+  <advance width="700" height="1000"/>
+  <unicode hex="301C"/>
+  <outline>
+  <component base="asciitilde" yOffset="30"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

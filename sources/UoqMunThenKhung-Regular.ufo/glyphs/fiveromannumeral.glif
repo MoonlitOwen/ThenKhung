@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fiveromannumeral" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2174"/>
+  <outline>
+    <contour>
+      <point x="806" y="519" type="line"/>
+      <point x="746" y="519" type="line"/>
+      <point x="540" y="-15" type="line"/>
+      <point x="423" y="-15" type="line"/>
+      <point x="250" y="519" type="line"/>
+      <point x="192" y="519" type="line"/>
+      <point x="192" y="552" type="line"/>
+      <point x="417" y="552" type="line"/>
+      <point x="417" y="519" type="line"/>
+      <point x="367" y="519" type="line"/>
+      <point x="504" y="51" type="line"/>
+      <point x="670" y="519" type="line"/>
+      <point x="599" y="519" type="line"/>
+      <point x="599" y="552" type="line"/>
+      <point x="806" y="552" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
