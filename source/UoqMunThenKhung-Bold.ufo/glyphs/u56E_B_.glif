@@ -132,7 +132,7 @@
       <point x="480" y="646"/>
       <point x="464" y="616"/>
       <point x="442" y="583"/>
-      <point x="432" y="567" type="qcurve"/>
+      <point x="432" y="566" type="qcurve"/>
       <point x="425" y="555"/>
     </contour>
   </outline>

@@ -101,7 +101,7 @@
     <contour>
       <point x="178" y="631" type="line"/>
       <point x="177" y="638"/>
-      <point x="175" y="647" type="qcurve"/>
+      <point x="175" y="646" type="qcurve"/>
       <point x="169" y="678"/>
       <point x="156" y="759"/>
       <point x="146" y="829"/>

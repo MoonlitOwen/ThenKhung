@@ -44,7 +44,7 @@
     <contour>
       <point x="77" y="-2" type="qcurve"/>
       <point x="70" y="-13"/>
-      <point x="61" y="-28" type="qcurve"/>
+      <point x="60" y="-28" type="qcurve"/>
       <point x="48" y="-48"/>
       <point x="22" y="-79"/>
       <point x="12" y="-79" type="qcurve"/>
@@ -54,7 +54,7 @@
       <point x="18" y="-26"/>
       <point x="31" y="23" type="qcurve"/>
       <point x="45" y="75"/>
-      <point x="52" y="143" type="qcurve"/>
+      <point x="52" y="142" type="qcurve"/>
       <point x="57" y="205"/>
       <point x="58" y="269" type="qcurve"/>
       <point x="15" y="269" type="line"/>
@@ -73,7 +73,7 @@
       <point x="149" y="-59" type="qcurve"/>
       <point x="136" y="-59"/>
       <point x="102" y="-34"/>
-      <point x="89" y="-17" type="qcurve"/>
+      <point x="88" y="-18" type="qcurve"/>
       <point x="82" y="-9"/>
     </contour>
     <contour>
@@ -111,7 +111,7 @@
       <point x="598" y="42" type="qcurve"/>
       <point x="598" y="114" type="line"/>
       <point x="586" y="88"/>
-      <point x="569" y="59" type="qcurve"/>
+      <point x="568" y="59" type="qcurve"/>
       <point x="543" y="17"/>
       <point x="512" y="-7" type="qcurve"/>
       <point x="508" y="-10"/>
@@ -291,7 +291,7 @@
       <point x="323" y="16"/>
       <point x="317" y="9" type="qcurve"/>
       <point x="323" y="7"/>
-      <point x="333" y="3" type="qcurve"/>
+      <point x="333" y="2" type="qcurve"/>
       <point x="350" y="-5"/>
       <point x="366" y="-5" type="qcurve"/>
       <point x="373" y="-5"/>
@@ -305,11 +305,11 @@
     </contour>
     <contour>
       <point x="147" y="269" type="line"/>
-      <point x="147" y="267" type="line"/>
+      <point x="146" y="267" type="line"/>
       <point x="141" y="194"/>
       <point x="128" y="131" type="qcurve"/>
       <point x="120" y="96"/>
-      <point x="108" y="65" type="qcurve"/>
+      <point x="108" y="64" type="qcurve"/>
       <point x="99" y="40"/>
       <point x="87" y="17" type="qcurve"/>
       <point x="89" y="16"/>

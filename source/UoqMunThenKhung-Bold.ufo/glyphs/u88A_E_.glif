@@ -27,7 +27,7 @@
     <contour>
       <point x="184" y="633" type="line"/>
       <point x="182" y="639"/>
-      <point x="181" y="647" type="qcurve"/>
+      <point x="181" y="646" type="qcurve"/>
       <point x="175" y="678"/>
       <point x="162" y="758"/>
       <point x="152" y="827"/>

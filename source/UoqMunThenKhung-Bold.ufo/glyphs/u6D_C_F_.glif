@@ -4,27 +4,6 @@
   <unicode hex="6DCF"/>
   <outline>
     <contour>
-      <point x="767" y="724" type="line"/>
-      <point x="481" y="724" type="line"/>
-      <point x="481" y="624" type="line"/>
-      <point x="658" y="624" type="line"/>
-      <point x="661" y="641"/>
-      <point x="688" y="665"/>
-      <point x="706" y="665" type="qcurve"/>
-      <point x="723" y="665"/>
-      <point x="748" y="641"/>
-      <point x="748" y="624" type="qcurve"/>
-      <point x="748" y="606"/>
-      <point x="724" y="582"/>
-      <point x="706" y="582" type="qcurve"/>
-      <point x="481" y="582" type="line"/>
-      <point x="481" y="491" type="line"/>
-      <point x="715" y="491" type="line"/>
-      <point x="744" y="491"/>
-      <point x="767" y="540"/>
-      <point x="767" y="564" type="qcurve"/>
-    </contour>
-    <contour>
       <point x="313" y="292" type="qcurve"/>
       <point x="313" y="282"/>
       <point x="302" y="244"/>
@@ -174,6 +153,21 @@
       <point x="236" y="757"/>
       <point x="279" y="701"/>
       <point x="309" y="649"/>
+    </contour>
+    <contour>
+      <point x="767" y="582" type="line"/>
+      <point x="481" y="582" type="line"/>
+      <point x="481" y="491" type="line"/>
+      <point x="715" y="491" type="line"/>
+      <point x="744" y="491"/>
+      <point x="767" y="540"/>
+      <point x="767" y="564" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="767" y="624" type="line"/>
+      <point x="767" y="724" type="line"/>
+      <point x="481" y="724" type="line"/>
+      <point x="481" y="624" type="line"/>
     </contour>
     <contour>
       <point x="881" y="573" type="line"/>

@@ -171,9 +171,9 @@
       <point x="824" y="404"/>
       <point x="813" y="404" type="qcurve"/>
       <point x="806" y="404"/>
-      <point x="799" y="417"/>
+      <point x="800" y="417"/>
       <point x="800" y="423" type="qcurve"/>
-      <point x="800" y="428" type="line"/>
+      <point x="800" y="428"/>
       <point x="805" y="465"/>
       <point x="812" y="539"/>
       <point x="815" y="569" type="qcurve"/>

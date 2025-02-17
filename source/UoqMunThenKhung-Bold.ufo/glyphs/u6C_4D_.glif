@@ -96,7 +96,7 @@
       <point x="666" y="543" type="qcurve"/>
       <point x="560" y="543" type="line"/>
       <point x="557" y="482"/>
-      <point x="551" y="420" type="qcurve"/>
+      <point x="550" y="420" type="qcurve"/>
     </contour>
     <contour>
       <point x="310" y="307" type="qcurve"/>

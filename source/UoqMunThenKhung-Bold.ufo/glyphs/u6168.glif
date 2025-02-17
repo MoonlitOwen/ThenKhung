@@ -190,7 +190,7 @@
       <point x="249" y="598" type="line"/>
       <point x="276" y="618" type="line"/>
       <point x="287" y="602"/>
-      <point x="297" y="574" type="qcurve"/>
+      <point x="296" y="574" type="qcurve"/>
       <point x="305" y="548"/>
     </contour>
   </outline>

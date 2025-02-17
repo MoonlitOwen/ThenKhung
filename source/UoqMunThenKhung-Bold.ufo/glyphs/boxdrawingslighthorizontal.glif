@@ -4,16 +4,16 @@
   <unicode hex="2500"/>
   <outline>
     <contour>
-      <point x="999" y="359" type="line"/>
-      <point x="1" y="359" type="line"/>
-      <point x="1" y="400" type="line"/>
-      <point x="999" y="400" type="line"/>
+      <point x="1000" y="359" type="line"/>
+      <point x="0" y="359" type="line"/>
+      <point x="0" y="400" type="line"/>
+      <point x="1000" y="400" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>public.verticalOrigin</key>
-      <integer>880</integer>
+      <real>879.90234375</real>
     </dict>
   </lib>
 </glyph>

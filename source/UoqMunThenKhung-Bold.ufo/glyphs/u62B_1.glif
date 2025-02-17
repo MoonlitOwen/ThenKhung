@@ -6,7 +6,7 @@
     <contour>
       <point x="392" y="463" type="line"/>
       <point x="386" y="458"/>
-      <point x="375" y="452" type="qcurve"/>
+      <point x="374" y="452" type="qcurve"/>
       <point x="362" y="445"/>
       <point x="335" y="434"/>
       <point x="327" y="434" type="qcurve"/>
@@ -63,7 +63,7 @@
       <point x="621" y="278"/>
       <point x="559" y="278" type="qcurve"/>
       <point x="546" y="278"/>
-      <point x="533" y="279" type="qcurve"/>
+      <point x="533" y="278" type="qcurve"/>
       <point x="511" y="279" type="line"/>
       <point x="511" y="80" type="line"/>
       <point x="511" y="58"/>

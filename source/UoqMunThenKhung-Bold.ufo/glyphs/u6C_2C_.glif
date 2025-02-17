@@ -117,8 +117,6 @@
       <point x="500" y="345" type="line"/>
     </contour>
     <contour>
-      <point x="449" y="128" type="line"/>
-      <point x="449" y="129" type="line"/>
       <point x="532" y="129" type="line"/>
       <point x="532" y="229" type="line"/>
       <point x="396" y="229" type="line"/>
@@ -127,12 +125,10 @@
       <point x="346" y="229" type="line"/>
       <point x="212" y="229" type="line"/>
       <point x="212" y="129" type="line"/>
-      <point x="295" y="129" type="line"/>
-      <point x="295" y="128" type="line"/>
-      <point x="346" y="128" type="line"/>
+      <point x="346" y="129" type="line"/>
       <point x="346" y="-4" type="line"/>
       <point x="396" y="-4" type="line"/>
-      <point x="396" y="128" type="line"/>
+      <point x="396" y="129" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -22,7 +22,7 @@
       <point x="48" y="222"/>
       <point x="54" y="226" type="qcurve"/>
       <point x="112" y="266"/>
-      <point x="159" y="311" type="qcurve"/>
+      <point x="158" y="310" type="qcurve"/>
       <point x="196" y="346"/>
       <point x="229" y="390" type="qcurve"/>
       <point x="78" y="390" type="line"/>
@@ -71,7 +71,7 @@
       <point x="303" y="38"/>
       <point x="313" y="70" type="qcurve"/>
       <point x="324" y="105"/>
-      <point x="329" y="142" type="qcurve"/>
+      <point x="328" y="142" type="qcurve"/>
       <point x="330" y="150"/>
       <point x="331" y="159" type="qcurve"/>
       <point x="296" y="129"/>
@@ -112,7 +112,7 @@
       <point x="485" y="222"/>
       <point x="492" y="227" type="qcurve"/>
       <point x="549" y="266"/>
-      <point x="596" y="311" type="qcurve"/>
+      <point x="596" y="310" type="qcurve"/>
       <point x="633" y="346"/>
       <point x="666" y="390" type="qcurve"/>
       <point x="508" y="390" type="line"/>
@@ -181,7 +181,7 @@
       <point x="685" y="208"/>
       <point x="741" y="277" type="qcurve"/>
       <point x="788" y="251" type="line"/>
-      <point x="791" y="330" type="line"/>
+      <point x="790" y="330" type="line"/>
     </contour>
   </outline>
   <lib>

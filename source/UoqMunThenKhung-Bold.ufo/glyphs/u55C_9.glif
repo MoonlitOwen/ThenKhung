@@ -32,7 +32,7 @@
       <point x="613" y="-72" type="line"/>
       <point x="613" y="191" type="line"/>
       <point x="551" y="185"/>
-      <point x="507" y="182" type="qcurve"/>
+      <point x="506" y="182" type="qcurve"/>
       <point x="460" y="178"/>
       <point x="413" y="176" type="qcurve"/>
       <point x="388" y="248" type="line"/>

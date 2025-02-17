@@ -160,10 +160,10 @@
       <point x="279" y="192" type="line"/>
       <point x="279" y="237" type="line"/>
       <point x="525" y="237" type="line"/>
-      <point x="531" y="275" type="line"/>
+      <point x="531" y="274" type="line"/>
       <point x="533" y="289"/>
       <point x="538" y="322" type="qcurve"/>
-      <point x="537" y="322" type="line"/>
+      <point x="536" y="322" type="line"/>
       <point x="522" y="316"/>
       <point x="518" y="316" type="qcurve"/>
       <point x="515" y="316"/>

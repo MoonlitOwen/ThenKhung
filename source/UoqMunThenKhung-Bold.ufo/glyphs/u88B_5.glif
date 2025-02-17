@@ -86,7 +86,7 @@
     <contour>
       <point x="164" y="643" type="line"/>
       <point x="163" y="648"/>
-      <point x="162" y="655" type="qcurve"/>
+      <point x="162" y="654" type="qcurve"/>
       <point x="156" y="685"/>
       <point x="143" y="763"/>
       <point x="133" y="830"/>
@@ -99,7 +99,7 @@
       <point x="293" y="812"/>
       <point x="275" y="755"/>
       <point x="247" y="675"/>
-      <point x="234" y="649" type="qcurve"/>
+      <point x="234" y="648" type="qcurve"/>
       <point x="233" y="646"/>
       <point x="231" y="643" type="qcurve"/>
       <point x="352" y="643" type="line"/>

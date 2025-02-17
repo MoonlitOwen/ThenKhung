@@ -215,7 +215,7 @@
   <lib>
     <dict>
       <key>public.verticalOrigin</key>
-      <integer>880</integer>
+      <real>879.555541992188</real>
     </dict>
   </lib>
 </glyph>
