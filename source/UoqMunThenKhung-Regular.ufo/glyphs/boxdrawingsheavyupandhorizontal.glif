@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingsheavyupandhorizontal" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="253B"/>
+  <outline>
+    <contour>
+      <point x="999" y="317" type="line"/>
+      <point x="0" y="317" type="line"/>
+      <point x="0" y="440" type="line"/>
+      <point x="438" y="440" type="line"/>
+      <point x="438" y="879" type="line"/>
+      <point x="561" y="879" type="line"/>
+      <point x="561" y="440" type="line"/>
+      <point x="999" y="440" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

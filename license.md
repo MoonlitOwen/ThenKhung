@@ -1,6 +1,6 @@
 # 🌕English
 
-Copyright 2020 The Kaisei Project Authors (https://github.com/Font-Kai/Kaisei), 2023 Moonlit Owen (https://github.com/MoonlitOwen/)
+Copyright 2025 The UoqMunThenKhung Project Authors (https://github.com/MoonlitOwen/UoqMunThenKhung)
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="logicalnot.rotat" format="2">
+  <advance width="1000" height="580"/>
+  <outline>
+    <contour>
+      <point x="247" y="368" type="line"/>
+      <point x="247" y="423" type="line"/>
+      <point x="454" y="423" type="line"/>
+      <point x="454" y="830" type="line"/>
+      <point x="495" y="830" type="line"/>
+      <point x="495" y="368" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
