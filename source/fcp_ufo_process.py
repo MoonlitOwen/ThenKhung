@@ -5,6 +5,7 @@ from pathlib import Path
 import re
 import shutil
 import codecs
+import ufoLib2
 
 SOURCE = Path("source/")
 
@@ -36,7 +37,7 @@ for source in SOURCE.glob("*.ufo"):
     plist = open(fontInfo, 'r')
     content = plist.read()
     content_new = re.sub(
-		'<key>platformID</key>\\n\\s+<integer>3</integer>', 
+		'<key>platformID</key>\\n\\s+<integer>3</integer>\\n\\s+<key>encodingID</key>\\n\\s+<integer>.*</integer>', 
 		'<key>platformID</key><integer>3</integer><key>encodingID</key><integer>1</integer>', 
 		content
 	)
@@ -60,3 +61,13 @@ for source in SOURCE.glob("*.ufo"):
 
     with open (features, 'w') as feaWriter:
         feaWriter.write(content_new)
+
+
+    font = ufoLib2.Font.open(UFO)
+    name_records = font.info.openTypeNameRecords
+    updated_name_records = [
+        record for record in name_records if record.get("nameID") not in [16, 17]
+    ]
+    font.info.openTypeNameRecords = updated_name_records
+
+    font.save(UFO,overwrite=True)
