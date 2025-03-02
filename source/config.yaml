@@ -3,3 +3,6 @@ sources:
 familyName: "UoqMunThenKhung"
 removeOutlineOverlaps: false
 extraFontmakeArgs: "--production-names"
+autohintOTF: False
+autohintTTF: False
+buildWebfont: False

@@ -37,7 +37,7 @@ for source in SOURCE.glob("*.ufo"):
     content = plist.read()
     content_new = re.sub(
 		'<key>platformID</key>\\n\\s+<integer>3</integer>', 
-		'<key>platformID</key><integer>3</integer><key>encodingID</key><integer>10</integer>', 
+		'<key>platformID</key><integer>3</integer><key>encodingID</key><integer>1</integer>', 
 		content
 	)
     plist.close()

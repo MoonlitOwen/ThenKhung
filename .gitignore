@@ -3,3 +3,4 @@ source/temp/
 *.ninja_log
 .DS_Store
 results.md
+venv/
