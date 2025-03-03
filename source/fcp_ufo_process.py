@@ -66,6 +66,10 @@ for UFO in SOURCE.glob("*.ufo"):
     # Now that the UFO is normalized, we can modify it more easily with ufoLib2
     print ("Adding some name records")
     font = ufoLib2.Font.open(UFO)
+
+    # Setting useTypoMetrics flag
+    font.info.openTypeOS2Selection.append(7)
+
     name_records = []
 
     for record in font.info.openTypeNameRecords:
