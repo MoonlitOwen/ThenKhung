@@ -66,9 +66,9 @@ for UFO in SOURCE.glob("*.ufo"):
     # Now that the UFO is normalized, we can modify it more easily with ufoLib2
     print ("Adding some name records")
     font = ufoLib2.Font.open(UFO)
-    name_records = font.info.openTypeNameRecords
+    name_records = []
 
-    for record in name_records:
+    for i,record in enumerate(font.info.openTypeNameRecords):
         #FCP creates a NID 16 for the localized name, but not a NID1
         if record.get("nameID") == 16:
             new_record = {
@@ -79,14 +79,10 @@ for UFO in SOURCE.glob("*.ufo"):
                 "string": record.get("string"),
             }
             name_records.append(new_record)
-
-    name_records.append({ #Also good to have a NID16 entry with the Latin name, since there's one for Chinese
-        "nameID": 16,
-        "platformID": 3,
-        "encodingID": 1,
-        "languageID": 1033,
-        "string": font.info.familyName,
-    })
+        elif record.get("nameID") == 17:
+            pass
+        else:
+            name_records.append(new_record) 
 
     font.info.openTypeNameRecords = name_records
 
@@ -118,7 +114,7 @@ VertAxis.BaseScriptList
     if "table BASE" in features:
         pass
     else:
-        print("Adding BASE table to features.fea.")
+        print("Adding BASE table to features.fea")
         features += f"\n\n{base_table_content}\n"
         font.features.text = features
 
