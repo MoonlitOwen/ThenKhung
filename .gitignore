@@ -1,0 +1,7 @@
+source/temp/
+*.ninja
+*.ninja_log
+.DS_Store
+results.md
+venv/
+*.ufo
