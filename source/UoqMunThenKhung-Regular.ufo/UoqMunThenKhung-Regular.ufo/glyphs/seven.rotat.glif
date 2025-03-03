@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="seven.rotat" format="2">
+  <advance width="1000" height="590"/>
+  <outline>
+    <contour>
+      <point x="805" y="342" type="line"/>
+      <point x="760" y="383"/>
+      <point x="659" y="454"/>
+      <point x="601" y="476" type="qcurve"/>
+      <point x="503" y="514"/>
+      <point x="293" y="540"/>
+      <point x="188" y="543" type="qcurve"/>
+      <point x="166" y="544"/>
+      <point x="127" y="551"/>
+      <point x="102" y="577"/>
+      <point x="102" y="604" type="qcurve"/>
+      <point x="102" y="685"/>
+      <point x="186" y="685" type="qcurve"/>
+      <point x="197" y="685"/>
+      <point x="221" y="682"/>
+      <point x="232" y="680" type="qcurve"/>
+      <point x="386" y="655"/>
+      <point x="679" y="532"/>
+      <point x="794" y="423" type="qcurve"/>
+      <point x="793" y="467"/>
+      <point x="791" y="554"/>
+      <point x="789" y="597" type="qcurve"/>
+      <point x="788" y="622"/>
+      <point x="786" y="672"/>
+      <point x="781" y="697" type="qcurve"/>
+      <point x="777" y="712"/>
+      <point x="766" y="742"/>
+      <point x="755" y="754" type="qcurve"/>
+      <point x="739" y="771"/>
+      <point x="698" y="788"/>
+      <point x="679" y="795" type="qcurve"/>
+      <point x="666" y="801"/>
+      <point x="666" y="813" type="qcurve"/>
+      <point x="666" y="828"/>
+      <point x="682" y="828" type="qcurve"/>
+      <point x="687" y="828"/>
+      <point x="731" y="825"/>
+      <point x="747" y="823" type="qcurve"/>
+      <point x="766" y="822"/>
+      <point x="805" y="820"/>
+      <point x="822" y="818" type="qcurve"/>
+      <point x="830" y="817"/>
+      <point x="842" y="812"/>
+      <point x="842" y="801" type="qcurve"/>
+      <point x="842" y="753"/>
+      <point x="839" y="657"/>
+      <point x="839" y="608" type="qcurve"/>
+      <point x="839" y="542"/>
+      <point x="841" y="408"/>
+      <point x="845" y="342" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

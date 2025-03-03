@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fullwidthreversesolidus" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FF3C"/>
+  <outline>
+    <contour>
+      <point x="941" y="-19" type="line"/>
+      <point x="898" y="-64" type="line"/>
+      <point x="50" y="787" type="line"/>
+      <point x="92" y="832" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

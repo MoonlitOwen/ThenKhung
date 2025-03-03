@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingsdownheavyandleftlight" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2512"/>
+  <outline>
+    <contour>
+      <point x="562" y="-120" type="line"/>
+      <point x="438" y="-120" type="line"/>
+      <point x="438" y="360" type="line"/>
+      <point x="0" y="360" type="line"/>
+      <point x="0" y="401" type="line"/>
+      <point x="562" y="401" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

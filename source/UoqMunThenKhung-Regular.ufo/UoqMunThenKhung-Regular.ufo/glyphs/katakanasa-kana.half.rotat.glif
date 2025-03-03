@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katakanasa-kana.half.rotat" format="2">
+  <advance width="1000" height="500"/>
+  <outline>
+    <contour>
+      <point x="641" y="396" type="qcurve"/>
+      <point x="626" y="396"/>
+      <point x="585" y="412"/>
+      <point x="585" y="431" type="qcurve"/>
+      <point x="585" y="519" type="line"/>
+      <point x="538" y="520"/>
+      <point x="427" y="528"/>
+      <point x="315" y="550"/>
+      <point x="213" y="593"/>
+      <point x="135" y="662"/>
+      <point x="115" y="714" type="qcurve"/>
+      <point x="110" y="727"/>
+      <point x="103" y="755"/>
+      <point x="103" y="768" type="qcurve"/>
+      <point x="103" y="773"/>
+      <point x="107" y="781"/>
+      <point x="112" y="781" type="qcurve"/>
+      <point x="115" y="781"/>
+      <point x="124" y="765"/>
+      <point x="133" y="747"/>
+      <point x="134" y="744" type="qcurve"/>
+      <point x="155" y="711"/>
+      <point x="220" y="659"/>
+      <point x="295" y="622"/>
+      <point x="331" y="611" type="qcurve"/>
+      <point x="393" y="593"/>
+      <point x="521" y="580"/>
+      <point x="585" y="578" type="qcurve"/>
+      <point x="585" y="686" type="line"/>
+      <point x="395" y="686" type="line"/>
+      <point x="395" y="746" type="line"/>
+      <point x="585" y="746" type="line"/>
+      <point x="585" y="847" type="line"/>
+      <point x="633" y="847" type="line"/>
+      <point x="633" y="746" type="line"/>
+      <point x="821" y="746" type="line"/>
+      <point x="821" y="685" type="line"/>
+      <point x="633" y="685" type="line"/>
+      <point x="633" y="578" type="line"/>
+      <point x="830" y="578" type="line"/>
+      <point x="830" y="517" type="line"/>
+      <point x="633" y="517" type="line"/>
+      <point x="633" y="466" type="line"/>
+      <point x="643" y="466"/>
+      <point x="676" y="460"/>
+      <point x="704" y="446"/>
+      <point x="704" y="432" type="qcurve"/>
+      <point x="704" y="418"/>
+      <point x="681" y="402"/>
+      <point x="652" y="396"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

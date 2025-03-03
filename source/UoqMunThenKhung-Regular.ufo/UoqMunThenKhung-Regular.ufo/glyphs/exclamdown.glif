@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="exclamdown" format="2">
+  <advance width="400" height="1000"/>
+  <unicode hex="00A1"/>
+  <outline>
+    <contour>
+      <point x="280" y="-148" type="qcurve"/>
+      <point x="280" y="-178"/>
+      <point x="227" y="-213"/>
+      <point x="200" y="-213" type="qcurve"/>
+      <point x="184" y="-213"/>
+      <point x="146" y="-196"/>
+      <point x="120" y="-167"/>
+      <point x="120" y="-148" type="qcurve"/>
+      <point x="120" y="-128"/>
+      <point x="126" y="-88"/>
+      <point x="129" y="-68" type="qcurve"/>
+      <point x="143" y="36"/>
+      <point x="171" y="243"/>
+      <point x="184" y="347" type="qcurve"/>
+      <point x="219" y="347" type="line"/>
+      <point x="227" y="243"/>
+      <point x="254" y="35"/>
+      <point x="270" y="-68" type="qcurve"/>
+      <point x="273" y="-88"/>
+      <point x="280" y="-128"/>
+    </contour>
+    <contour>
+      <point x="278" y="482" type="qcurve"/>
+      <point x="278" y="451"/>
+      <point x="232" y="408"/>
+      <point x="201" y="408" type="qcurve"/>
+      <point x="170" y="408"/>
+      <point x="123" y="451"/>
+      <point x="123" y="482" type="qcurve"/>
+      <point x="123" y="514"/>
+      <point x="170" y="557"/>
+      <point x="201" y="557" type="qcurve"/>
+      <point x="232" y="557"/>
+      <point x="278" y="514"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

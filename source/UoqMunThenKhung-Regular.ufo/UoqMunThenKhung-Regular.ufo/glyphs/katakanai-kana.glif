@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="katakanai-kana" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="30A4"/>
+  <outline>
+    <contour>
+      <point x="792" y="678" type="line"/>
+      <point x="773" y="642"/>
+      <point x="706" y="569"/>
+      <point x="631" y="505"/>
+      <point x="598" y="480" type="qcurve"/>
+      <point x="598" y="-17" type="line"/>
+      <point x="478" y="-17" type="line"/>
+      <point x="479" y="395" type="line"/>
+      <point x="438" y="367"/>
+      <point x="346" y="322"/>
+      <point x="299" y="305" type="qcurve"/>
+      <point x="282" y="299"/>
+      <point x="227" y="284"/>
+      <point x="172" y="273"/>
+      <point x="154" y="273" type="qcurve"/>
+      <point x="150" y="273"/>
+      <point x="125" y="276"/>
+      <point x="125" y="283" type="qcurve"/>
+      <point x="125" y="289"/>
+      <point x="143" y="299"/>
+      <point x="147" y="300" type="qcurve"/>
+      <point x="185" y="316"/>
+      <point x="258" y="350"/>
+      <point x="292" y="372" type="qcurve"/>
+      <point x="403" y="443"/>
+      <point x="596" y="630"/>
+      <point x="670" y="739" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

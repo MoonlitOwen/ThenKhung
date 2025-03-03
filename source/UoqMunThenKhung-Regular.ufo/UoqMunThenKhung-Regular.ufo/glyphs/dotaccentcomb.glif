@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="dotaccentcomb" format="2">
+  <advance width="0" height="1000"/>
+  <unicode hex="0307"/>
+  <outline>
+    <contour>
+      <point x="306" y="719" type="qcurve"/>
+      <point x="306" y="697"/>
+      <point x="273" y="661"/>
+      <point x="250" y="661" type="qcurve"/>
+      <point x="228" y="661"/>
+      <point x="194" y="697"/>
+      <point x="194" y="719" type="qcurve"/>
+      <point x="194" y="741"/>
+      <point x="228" y="776"/>
+      <point x="250" y="776" type="qcurve"/>
+      <point x="273" y="776"/>
+      <point x="306" y="741"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

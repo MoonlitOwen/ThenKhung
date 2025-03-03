@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackrightwardsarrow" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="27A1"/>
+  <outline>
+    <contour>
+      <point x="897" y="377" type="line"/>
+      <point x="617" y="146" type="line"/>
+      <point x="617" y="290" type="line"/>
+      <point x="103" y="290" type="line"/>
+      <point x="103" y="464" type="line"/>
+      <point x="617" y="464" type="line"/>
+      <point x="617" y="609" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>
