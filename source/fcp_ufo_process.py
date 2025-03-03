@@ -68,7 +68,7 @@ for UFO in SOURCE.glob("*.ufo"):
     font = ufoLib2.Font.open(UFO)
     name_records = []
 
-    for i,record in enumerate(font.info.openTypeNameRecords):
+    for record in font.info.openTypeNameRecords:
         #FCP creates a NID 16 for the localized name, but not a NID1
         if record.get("nameID") == 16:
             new_record = {
@@ -82,8 +82,7 @@ for UFO in SOURCE.glob("*.ufo"):
         elif record.get("nameID") == 17:
             pass
         else:
-            name_records.append(new_record) 
-
+            name_records.append(record) 
     font.info.openTypeNameRecords = name_records
 
 # ------------------------------------
