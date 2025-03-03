@@ -7,12 +7,11 @@ import shutil
 import codecs
 import ufoLib2
 
-SOURCE = Path("source/")
+SOURCE = Path("source/temp")
 
 # Processing invalid UFO generation from Font Creator version 15.0.0.2974
 
-for source in SOURCE.glob("*.ufo"):
-    UFO = Path(shutil.copytree(str(source),str(source).replace("source/","source/temp/"),dirs_exist_ok=True))
+for UFO in SOURCE.glob("*.ufo"):
 
 	# Clearing BOM encoding in older versions of FCP. 
     for file in UFO.rglob("*.*"):
@@ -62,15 +61,38 @@ for source in SOURCE.glob("*.ufo"):
     with open (features, 'w') as feaWriter:
         feaWriter.write(content_new)
 
-    # Now on to modify the UFO some
+# ------------------------------------
 
+    # Now that the UFO is normalized, we can modify it more easily with ufoLib2
+    print ("Adding some name records")
     font = ufoLib2.Font.open(UFO)
-    print ("Removing NID16/17 from UFO source") #This is added by FCP incorrectly. 
     name_records = font.info.openTypeNameRecords
-    updated_name_records = [
-        record for record in name_records if record.get("nameID") not in [16, 17]
-    ]
-    font.info.openTypeNameRecords = updated_name_records
+
+    for record in name_records:
+        #FCP creates a NID 16 for the localized name, but not a NID1
+        if record.get("nameID") == 16:
+            new_record = {
+                "nameID": 1,
+                "platformID": record.get("platformID"),
+                "encodingID": record.get("encodingID"),
+                "languageID": record.get("languageID"),
+                "string": record.get("string"),
+            }
+            name_records.append(new_record)
+
+    name_records.append({ #Also good to have a NID16 entry with the Latin name, since there's one for Chinese
+        "nameID": 16,
+        "platformID": 3,
+        "encodingID": 1,
+        "languageID": 1033,
+        "string": font.info.familyName,
+    })
+
+    font.info.openTypeNameRecords = name_records
+
+# ------------------------------------
+
+    # Add the BASE table
 
     base_table_content = """
 table BASE {
