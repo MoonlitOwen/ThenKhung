@@ -32,14 +32,6 @@ jobs:
       run: chmod +x ./build.sh
     - name: Build font
       run: ./build.sh
-    - name: setup site
-      run: cp scripts/index.html out/index.html
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v4
-      if: ${{ github.ref == 'refs/heads/main' }}
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./out
     - name: Archive artifacts
       uses: actions/upload-artifact@v4
       with:
@@ -71,11 +63,11 @@ jobs:
         with:
           name: ${{ env.ZIP_NAME }}
           path: ${{ env.ZIP_NAME }}
-      - name: Copy DESCRIPTION.en_us.html to artefact directory
-        run: cp documentation/DESCRIPTION.en_us.html ${{ env.ZIP_NAME }}/DESCRIPTION.en_us.html
-      - name: Copy ARTICLE.en_us.html to artefact directory
-        run: cp documentation/ARTICLE.en_us.html ${{ env.ZIP_NAME }}/ARTICLE.en_us.html
-        continue-on-error: true
+      # - name: Copy DESCRIPTION.en_us.html to artefact directory
+      #   run: cp documentation/DESCRIPTION.en_us.html ${{ env.ZIP_NAME }}/DESCRIPTION.en_us.html
+      # - name: Copy ARTICLE.en_us.html to artefact directory
+      #   run: cp documentation/ARTICLE.en_us.html ${{ env.ZIP_NAME }}/ARTICLE.en_us.html
+      #   continue-on-error: true
       - name: Copy OFL.txt to artefact directory
         run: cp OFL.txt ${{ env.ZIP_NAME }}/OFL.txt
       - name: Remove proof/fontbakery stuff from release
