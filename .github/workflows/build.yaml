@@ -28,7 +28,8 @@ jobs:
       shell: bash
       # Set the archive name to repo name + "-assets" e.g "MavenPro-assets"
       run: echo "ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-fonts" >> $GITHUB_ENV
-
+    - name: Change shell script permissions
+      run: chmod +x ./build.sh
     - name: Build font
       run: ./build.sh
     - name: setup site
