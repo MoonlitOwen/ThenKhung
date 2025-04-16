@@ -90,6 +90,17 @@ for UFO in SOURCE.glob("*.ufo"):
     font.info.openTypeNameRecords = name_records
 
 # ------------------------------------
+# Add meta table
+    print ("Adding meta table")
+
+    metaTable = {
+        "dlng": ["zh, Hant, zh-Hant, nan, hak, yue, nan-Latn, nan-Latn-pehoeji, nan-Latn-tailo, Bopo, Hanb"],
+        "slng": ["zh, Hans, Hant, zh-Hans, zh-Hant, nan, hak, yue, Bopo, Hanb, zh-Latn, zh-Latn-pinyin, nan-Latn, nan-Latn-pehoeji, nan-Latn-tailo, Latn, Cyrl, Grek"]
+    }
+
+    font.lib["public.openTypeMeta"] = metaTable
+
+# ------------------------------------
 
     # Add the BASE table
 
