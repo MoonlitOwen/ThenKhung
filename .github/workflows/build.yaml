@@ -37,6 +37,10 @@ jobs:
       run: echo "ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-fonts" >> $GITHUB_ENV
     - name: Change shell script permissions
       run: chmod +x ./build.sh
+    - name: Checkout actual branch
+      run: |
+        git fetch origin main
+        git checkout main
     - name: 運行構建字型的腳本
       run: ./build.sh
     - name: 儲存 構建後的字型 在個庫裏面
@@ -44,6 +48,7 @@ jobs:
       with:
         commit_message: 上傳構建完成字型
         file_pattern: fonts/**
+        push_options: --force
     - name: 緩存 構建後的字型 在本次構建歷史記錄
       uses: actions/upload-artifact@v4
       with:
