@@ -13,6 +13,8 @@ jobs:
   build:
     name: 構建和保存字型文件
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # 給機器人權限存進倉庫
     steps:
     - uses: actions/checkout@v4
     - name: Set up Python 3.10
