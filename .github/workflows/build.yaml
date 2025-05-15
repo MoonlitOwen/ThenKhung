@@ -1,0 +1,96 @@
+name: 構建字型
+
+on: 
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  release:
+    types: [published]
+
+
+jobs:
+  build:
+    name: 構建和保存字型文件
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+    - name: Set up Python 3.10
+      uses: actions/setup-python@v5
+      with:
+        python-version: "3.10"
+    - name: Install sys tools/deps
+      run: |
+        sudo apt-get update
+        sudo apt-get install ttfautohint
+        sudo snap install yq
+    - uses: actions/cache@v4
+      with:
+        path: ./venv/
+        key: ${{ runner.os }}-venv-${{ hashFiles('**/requirements*.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-venv-
+    - name: gen zip file name
+      id: zip-name
+      shell: bash
+      # Set the archive name to repo name + "-assets" e.g "MavenPro-assets"
+      run: echo "ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-fonts" >> $GITHUB_ENV
+    - name: Change shell script permissions
+      run: chmod +x ./build.sh
+    - name: Checkout actual branch
+      run: |
+        git fetch origin main
+        git checkout main
+    - name: 運行構建字型的腳本
+      run: ./build.sh
+    - name: 儲存 構建後的字型 在個庫裏面
+      uses: stefanzweifel/git-auto-commit-action@v5
+      with:
+        commit_message: 上傳構建完成字型
+        file_pattern: fonts/**
+        push_options: --force
+    - name: 緩存 構建後的字型 在本次構建歷史記錄
+      uses: actions/upload-artifact@v4
+      with:
+        name: ${{ env.ZIP_NAME }}
+        path: |
+          fonts
+          out
+    outputs:
+      zip_name: ${{ env.ZIP_NAME }}
+
+  # There are two ways a release can be created: either by pushing a tag, or by
+  # creating a release from the GitHub UI. Pushing a tag does not automatically
+  # create a release, so we have to do that ourselves. However, creating a
+  # release from the GitHub UI *does* push a tag, and we don't want to create
+  # a new release in that case because one already exists!
+
+  release:
+    name: 創建 release 和上傳字型文件
+    needs: build
+    runs-on: ubuntu-latest
+    if: github.event_name == 'release'
+    env:
+      ZIP_NAME: ${{ needs.build.outputs.zip_name }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download font artefact files
+        uses: actions/download-artifact@v4
+        with:
+          name: ${{ env.ZIP_NAME }}
+          path: ${{ env.ZIP_NAME }}
+      - name: 複製 license 文件
+        run: cp license.md ${{ env.ZIP_NAME }}/OFL.txt
+      - name: Remove proof/fontbakery stuff from release
+        run: rm -rf ${{ env.ZIP_NAME }}/out
+      - name: gen release file name
+        shell: bash
+        run: echo "RELEASE_ZIP_NAME=$(echo '${{ github.repository }}' | awk -F '/' '{print $2}')-${{github.ref_name}}" >> $GITHUB_ENV
+      - name: 創建打包 zip 文件
+        run: mv ${{ env.ZIP_NAME }} ${{ env.RELEASE_ZIP_NAME }}; zip -r ${{ env.RELEASE_ZIP_NAME }}.zip ${{ env.RELEASE_ZIP_NAME }}
+      - name: 上傳字體到 release
+        run: |
+          gh release upload ${{ github.ref_name }} ${{ env.RELEASE_ZIP_NAME }}.zip --clobber
+          gh release upload ${{ github.ref_name }} fonts/otf/UoqMunThenKhung-Regular.otf --clobber
+          gh release upload ${{ github.ref_name }} fonts/ttf/UoqMunThenKhung-Regular.ttf --clobber

@@ -1,0 +1,7 @@
+fonttools>=4.51.0
+gflanguages>=0.6.1
+gftools>=0.9.58
+glyphsets>=1.0.0
+fontbakery>=0.13.2
+ufoLib2>=0.16.0
+shaperglot >= 1.0.0a1
