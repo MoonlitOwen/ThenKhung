@@ -6,6 +6,7 @@ import re
 import shutil
 import codecs
 import ufoLib2
+import yaml # pyyaml installed by gftools
 
 SOURCE = Path("source/temp")
 
@@ -63,12 +64,28 @@ for UFO in SOURCE.glob("*.ufo"):
 
 # ------------------------------------
 
+VERSION = None
+
+# read version from config.yaml
+with open(SOURCE / ".." / "config.yaml") as f:
+    config = yaml.safe_load(f)
+    version_str = f"{config['version']:.3f}"
+    version_minor, version_major = version_str.split(".")
+    VERSION = (int(version_minor), int(version_major))
+
+# ------------------------------------
+
     # Now that the UFO is normalized, we can modify it more easily with ufoLib2
     print ("Adding some name records")
     font = ufoLib2.Font.open(UFO)
 
     # Setting useTypoMetrics flag
     font.info.openTypeOS2Selection.append(7)
+
+    # Setting version number override
+    print(f"Overriding version to {VERSION[0]}.{VERSION[1]:03d}")
+    font.info.versionMajor = VERSION[0]
+    font.info.versionMinor = VERSION[1]
 
     name_records = []
 

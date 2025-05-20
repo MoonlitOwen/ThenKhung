@@ -47,6 +47,7 @@ jobs:
       run: ./build.sh
     - name: 儲存 構建後的字型 在個庫裏面
       uses: stefanzweifel/git-auto-commit-action@v5
+      if: github.event_name != 'release'
       with:
         commit_message: 上傳構建完成字型
         file_pattern: fonts/**
