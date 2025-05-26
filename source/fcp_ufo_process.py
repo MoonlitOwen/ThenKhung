@@ -80,7 +80,8 @@ with open(SOURCE / ".." / "config.yaml") as f:
     font = ufoLib2.Font.open(UFO)
 
     # Setting useTypoMetrics flag
-    font.info.openTypeOS2Selection.append(7)
+    if 7 in font.info.openTypeOS2Selection:
+        font.info.openTypeOS2Selection.remove(7)
 
     # Setting version number override
     print(f"Overriding version to {VERSION[0]}.{VERSION[1]:03d}")
@@ -111,8 +112,8 @@ with open(SOURCE / ".." / "config.yaml") as f:
     print ("Adding meta table")
 
     metaTable = {
-        "dlng": ["zh, Hant, zh-Hant, nan, hak, yue, nan-Latn, nan-Latn-pehoeji, nan-Latn-tailo, Bopo, Hanb"],
-        "slng": ["zh, Hans, Hant, zh-Hans, zh-Hant, nan, hak, yue, Bopo, Hanb, zh-Latn, zh-Latn-pinyin, nan-Latn, nan-Latn-pehoeji, nan-Latn-tailo, Latn, Cyrl, Grek"]
+        "dlng": ["zh", "Hant", "zh-Hant", "nan", "hak", "yue", "nan-Latn", "nan-Latn-pehoeji", "nan-Latn-tailo", "Bopo", "Hanb"],
+        "slng": ["zh", "Hans", "Hant", "zh-Hans", "zh-Hant", "nan", "hak", "yue", "Bopo", "Hanb", "zh-Latn", "zh-Latn-pinyin", "nan-Latn", "nan-Latn-pehoeji", "nan-Latn-tailo", "Latn", "Cyrl", "Grek"]
     }
 
     font.lib["public.openTypeMeta"] = metaTable
@@ -125,19 +126,19 @@ with open(SOURCE / ".." / "config.yaml") as f:
 table BASE {
 HorizAxis.BaseTagList   icfb    icft    ideo    romn;
 HorizAxis.BaseScriptList  
-    DFLT    ideo  	-97   851  -123     0,
-    hani    ideo   	-97   851  -123     0,
-    kana    ideo   	-97   851  -123     0,
-    hang    ideo   	-97   851  -123     0,
-    latn    romn   	-97   851  -123     0;
+    DFLT    ideo  	-97   857  -120     0,
+    hani    ideo   	-97   857  -120     0,
+    kana    ideo   	-97   857  -120     0,
+    hang    ideo   	-97   857  -120     0,
+    latn    romn   	-97   857  -120     0;
 
 VertAxis.BaseTagList    icfb    icft    ideo    romn;
 VertAxis.BaseScriptList
-    DFLT    ideo    26   974     0   123,
-    hani    ideo    26   974     0   123,
-    kana    ideo    26   974     0   123,
-    hang    ideo    26   974     0   123,
-    latn    romn    26   974     0   123;
+    DFLT    ideo    26   974     0   120,
+    hani    ideo    26   974     0   120,
+    kana    ideo    26   974     0   120,
+    hang    ideo    26   974     0   120,
+    latn    romn    26   974     0   120;
 } BASE;
 """
 
