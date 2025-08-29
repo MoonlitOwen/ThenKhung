@@ -10,8 +10,8 @@
 
 目前最新版本爲1.001版，發佈於2025年2月18日，已補完和改製了Big-5碼「常用字區」的5401字，並補完了「jf 當務字集」基本包中「一部」至「玉部」的漢字。
 
-🌕 [宇文天穹 Version1.001 下載 （ttf檔案）](https://github.com/MoonlitOwen/ThenKhung/blob/main/fonts/ttf/UoqMunThenKhung-Regular.ttf) 🌕
-🌕 [宇文天穹 Version1.001 下載 （otf檔案）](https://github.com/MoonlitOwen/ThenKhung/blob/main/fonts/otf/UoqMunThenKhung-Regular.otf) 🌕
+🌕 [宇文天穹 Version1.001 下載 （ttf檔案）](fonts/ttf/UoqMunThenKhung-Regular.ttf) 🌕
+🌕 [宇文天穹 Version1.001 下載 （otf檔案）](fonts/otf/UoqMunThenKhung-Regular.otf) 🌕
 
 下載方法：點進連結後，按「View raw」欄右上方的「Download raw file」按鈕（如下圖紅圈所示）。
 ![下載鍵的位置](img/dl.png)
@@ -56,3 +56,4 @@
 * [一點字坊（I.字坊 I.Font Project）](https://github.com/ichitenfont)
 
 * [jf 7000 當務字集](https://justfont.com/jf7000)
+
