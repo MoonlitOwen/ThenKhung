@@ -1,0 +1,24 @@
+{
+glyphname = boxdrawingslightvertical.half;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(230,-120,l),
+(230,879,l),
+(270,879,l),
+(270,-120,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+}

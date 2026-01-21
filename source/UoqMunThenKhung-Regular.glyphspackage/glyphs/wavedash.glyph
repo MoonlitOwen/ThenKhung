@@ -1,0 +1,20 @@
+{
+glyphname = wavedash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+pos = (0,30);
+ref = asciitilde;
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 700;
+}
+);
+unicode = 12316;
+}

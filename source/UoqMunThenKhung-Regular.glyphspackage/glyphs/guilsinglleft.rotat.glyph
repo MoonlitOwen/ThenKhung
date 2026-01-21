@@ -1,0 +1,26 @@
+{
+glyphname = guilsinglleft.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,776,l),
+(176,606,l),
+(176,694,l),
+(370,851,l),
+(562,694,l),
+(562,606,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 300;
+width = 1000;
+}
+);
+}

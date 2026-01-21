@@ -1,0 +1,32 @@
+{
+glyphname = bullet.hwid;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(287,464,o),
+(338,413,o),
+(338,376,q),
+(338,339,o),
+(287,288,o),
+(250,288,q),
+(213,288,o),
+(162,339,o),
+(162,376,q),
+(162,413,o),
+(213,464,o),
+(250,464,q)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+}

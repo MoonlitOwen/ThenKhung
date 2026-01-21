@@ -1,0 +1,25 @@
+{
+glyphname = macron;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(121,680,l),
+(121,731,l),
+(379,731,l),
+(379,680,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 175;
+}

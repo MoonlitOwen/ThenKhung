@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="fl.rotat" format="2">
+  <advance width="1000" height="597"/>
+  <outline>
+    <contour>
+      <point x="130" y="294" type="qcurve"/>
+      <point x="113" y="294"/>
+      <point x="113" y="311" type="qcurve"/>
+      <point x="113" y="340"/>
+      <point x="116" y="399"/>
+      <point x="116" y="428" type="qcurve"/>
+      <point x="116" y="459"/>
+      <point x="113" y="521"/>
+      <point x="113" y="552" type="qcurve"/>
+      <point x="113" y="558"/>
+      <point x="124" y="565"/>
+      <point x="129" y="565" type="qcurve"/>
+      <point x="141" y="565"/>
+      <point x="147" y="546"/>
+      <point x="147" y="537" type="qcurve"/>
+      <point x="147" y="530"/>
+      <point x="146" y="517"/>
+      <point x="146" y="510" type="qcurve"/>
+      <point x="146" y="487"/>
+      <point x="171" y="487" type="qcurve"/>
+      <point x="309" y="487"/>
+      <point x="585" y="486"/>
+      <point x="722" y="486" type="qcurve"/>
+      <point x="733" y="486"/>
+      <point x="769" y="486"/>
+      <point x="803" y="491"/>
+      <point x="812" y="497" type="qcurve"/>
+      <point x="832" y="512"/>
+      <point x="849" y="574"/>
+      <point x="849" y="597" type="qcurve"/>
+      <point x="849" y="618"/>
+      <point x="817" y="647"/>
+      <point x="774" y="663"/>
+      <point x="756" y="663" type="qcurve"/>
+      <point x="725" y="663"/>
+      <point x="661" y="664"/>
+      <point x="629" y="664" type="qcurve"/>
+      <point x="629" y="539" type="line"/>
+      <point x="590" y="550" type="line"/>
+      <point x="590" y="660" type="line"/>
+      <point x="201" y="660" type="line"/>
+      <point x="170" y="660"/>
+      <point x="149" y="649"/>
+      <point x="148" y="621"/>
+      <point x="148" y="595" type="qcurve"/>
+      <point x="148" y="588"/>
+      <point x="136" y="582"/>
+      <point x="130" y="582" type="qcurve"/>
+      <point x="123" y="582"/>
+      <point x="113" y="591"/>
+      <point x="113" y="598" type="qcurve"/>
+      <point x="113" y="628"/>
+      <point x="117" y="687"/>
+      <point x="117" y="717" type="qcurve"/>
+      <point x="117" y="747"/>
+      <point x="114" y="808"/>
+      <point x="114" y="838" type="qcurve"/>
+      <point x="114" y="846"/>
+      <point x="119" y="862"/>
+      <point x="129" y="862" type="qcurve"/>
+      <point x="149" y="862"/>
+      <point x="149" y="840" type="qcurve"/>
+      <point x="149" y="830"/>
+      <point x="147" y="812"/>
+      <point x="147" y="802" type="qcurve"/>
+      <point x="147" y="780"/>
+      <point x="170" y="772"/>
+      <point x="188" y="772" type="qcurve"/>
+      <point x="588" y="772" type="line"/>
+      <point x="588" y="815" type="line"/>
+      <point x="588" y="829"/>
+      <point x="576" y="854"/>
+      <point x="576" y="862" type="qcurve"/>
+      <point x="576" y="869"/>
+      <point x="584" y="869" type="qcurve"/>
+      <point x="600" y="869"/>
+      <point x="616" y="863" type="qcurve"/>
+      <point x="625" y="860"/>
+      <point x="626" y="852"/>
+      <point x="626" y="844" type="qcurve"/>
+      <point x="626" y="774" type="line"/>
+      <point x="707" y="774" type="line"/>
+      <point x="801" y="774"/>
+      <point x="880" y="679"/>
+      <point x="880" y="589" type="qcurve"/>
+      <point x="880" y="565"/>
+      <point x="874" y="518"/>
+      <point x="866" y="495" type="qcurve"/>
+      <point x="870" y="484"/>
+      <point x="884" y="440"/>
+      <point x="897" y="399"/>
+      <point x="897" y="390" type="qcurve"/>
+      <point x="897" y="377"/>
+      <point x="883" y="377" type="qcurve"/>
+      <point x="705" y="377"/>
+      <point x="350" y="376"/>
+      <point x="171" y="376" type="qcurve"/>
+      <point x="146" y="376"/>
+      <point x="146" y="349" type="qcurve"/>
+      <point x="146" y="339"/>
+      <point x="148" y="321"/>
+      <point x="148" y="311" type="qcurve"/>
+      <point x="148" y="294"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

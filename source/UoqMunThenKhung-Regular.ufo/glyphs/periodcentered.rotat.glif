@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="periodcentered.rotat" format="2">
+  <advance width="1000" height="300"/>
+  <outline>
+    <contour>
+      <point x="428" y="651" type="qcurve"/>
+      <point x="395" y="651"/>
+      <point x="349" y="697"/>
+      <point x="349" y="730" type="qcurve"/>
+      <point x="349" y="763"/>
+      <point x="395" y="809"/>
+      <point x="428" y="809" type="qcurve"/>
+      <point x="461" y="809"/>
+      <point x="507" y="763"/>
+      <point x="507" y="730" type="qcurve"/>
+      <point x="507" y="697"/>
+      <point x="461" y="651"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="298" y="-76" type="line"/>
+      <point x="35" y="-76" type="line"/>
+      <point x="35" y="-34" type="line"/>
+      <point x="236" y="-34" type="line"/>
+      <point x="236" y="797" type="line"/>
+      <point x="35" y="797" type="line"/>
+      <point x="35" y="840" type="line"/>
+      <point x="298" y="840" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

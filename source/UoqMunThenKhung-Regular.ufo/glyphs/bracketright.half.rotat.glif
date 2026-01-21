@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bracketright.half.rotat" format="2">
+  <advance width="1000" height="500"/>
+  <outline>
+    <contour>
+      <point x="44" y="582" type="line"/>
+      <point x="44" y="845" type="line"/>
+      <point x="86" y="845" type="line"/>
+      <point x="86" y="644" type="line"/>
+      <point x="917" y="644" type="line"/>
+      <point x="917" y="845" type="line"/>
+      <point x="960" y="845" type="line"/>
+      <point x="960" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

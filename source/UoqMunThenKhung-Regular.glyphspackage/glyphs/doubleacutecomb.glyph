@@ -1,0 +1,34 @@
+{
+glyphname = doubleacutecomb;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(113,629,l),
+(68,641,l),
+(186,777,l),
+(280,759,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(276,629,l),
+(231,641,l),
+(349,777,l),
+(443,759,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 0;
+}
+);
+unicode = 779;
+}

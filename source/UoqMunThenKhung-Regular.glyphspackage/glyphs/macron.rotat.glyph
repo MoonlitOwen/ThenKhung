@@ -1,0 +1,24 @@
+{
+glyphname = macron.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(800,759,l),
+(851,759,l),
+(851,501,l),
+(800,501,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

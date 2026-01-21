@@ -1,0 +1,27 @@
+{
+glyphname = boxdrawingslightarcupandleft;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,360,q),
+(0,400,l),
+(480,400,o),
+(480,880,q),
+(520,880,l),
+(520,360,o)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9583;
+}

@@ -1,0 +1,34 @@
+{
+glyphname = doubleverticalline;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(377,-55,l),
+(377,817,l),
+(437,817,l),
+(437,-55,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(560,-55,l),
+(560,817,l),
+(621,817,l),
+(621,-55,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 8214;
+}

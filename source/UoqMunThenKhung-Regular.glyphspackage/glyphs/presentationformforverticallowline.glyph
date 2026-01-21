@@ -1,0 +1,25 @@
+{
+glyphname = presentationformforverticallowline;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-120,l),
+(0,880,l),
+(51,880,l),
+(51,-120,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65075;
+}

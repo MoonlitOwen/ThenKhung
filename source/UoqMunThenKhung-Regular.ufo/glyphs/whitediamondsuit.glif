@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="whitediamondsuit" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2662"/>
+  <outline>
+    <contour>
+      <point x="777" y="379" type="line"/>
+      <point x="499" y="727" type="line"/>
+      <point x="221" y="379" type="line"/>
+      <point x="499" y="30" type="line"/>
+    </contour>
+    <contour>
+      <point x="809" y="379" type="line"/>
+      <point x="499" y="-9" type="line"/>
+      <point x="189" y="379" type="line"/>
+      <point x="499" y="768" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

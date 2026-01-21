@@ -1,0 +1,40 @@
+{
+glyphname = rightwardswhitearrow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(659,568,l),
+(659,443,l),
+(97,443,l),
+(97,313,l),
+(659,313,l),
+(659,186,l),
+(890,380,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(630,123,l),
+(630,283,l),
+(59,283,l),
+(59,476,l),
+(630,476,l),
+(630,638,l),
+(941,380,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 8680;
+}

@@ -1,0 +1,39 @@
+{
+glyphname = "halfwidthkatakanako-kana";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(408,223,o),
+(402,160,o),
+(383,102,o),
+(342,65,o),
+(306,65,q),
+(71,65,l),
+(71,118,l),
+(291,118,l),
+(308,118,o),
+(326,147,o),
+(333,188,o),
+(335,227,o),
+(335,238,q),
+(335,553,l),
+(74,553,l),
+(74,606,l),
+(408,606,l),
+(408,250,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 65402;
+}

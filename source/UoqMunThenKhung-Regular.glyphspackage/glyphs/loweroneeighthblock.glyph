@@ -1,0 +1,25 @@
+{
+glyphname = loweroneeighthblock;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,-120,l),
+(0,8,l),
+(1000,8,l),
+(1000,-120,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9601;
+}

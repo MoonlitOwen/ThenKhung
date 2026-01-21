@@ -1,0 +1,33 @@
+{
+glyphname = lowdoubleprimequotation.half.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(42,692,l),
+(367,820,l),
+(387,785,l),
+(95,595,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(110,538,l),
+(423,673,l),
+(444,633,l),
+(163,441,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

@@ -1,0 +1,36 @@
+{
+glyphname = "katakanako-kana";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(806,153,o),
+(721,65,o),
+(622,65,q),
+(179,65,l),
+(179,118,l),
+(594,118,l),
+(630,118,o),
+(665,154,o),
+(677,210,o),
+(677,238,q),
+(677,554,l),
+(183,554,l),
+(183,607,l),
+(806,607,l),
+(806,250,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 12467;
+}

@@ -1,0 +1,33 @@
+{
+glyphname = rightcurlybracketupperhook.vert;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(714,473,o),
+(672,414,o),
+(609,370,o),
+(538,346,o),
+(506,346,q),
+(0,346,l),
+(0,419,l),
+(500,419,l),
+(533,419,o),
+(605,435,o),
+(664,474,o),
+(678,507,q),
+(718,507,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

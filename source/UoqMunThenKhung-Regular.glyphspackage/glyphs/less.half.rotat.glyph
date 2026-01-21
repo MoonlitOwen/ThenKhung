@@ -1,0 +1,26 @@
+{
+glyphname = less.half.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(395,828,l),
+(675,463,l),
+(612,463,l),
+(395,756,l),
+(173,463,l),
+(115,463,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

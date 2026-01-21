@@ -1,0 +1,37 @@
+{
+glyphname = fullwidthparenleft;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(856,766,o),
+(771,619,o),
+(732,450,o),
+(732,367,q),
+(732,288,o),
+(771,122,o),
+(856,-22,o),
+(924,-69,q),
+(909,-104,l),
+(775,-29,o),
+(638,208,o),
+(638,362,q),
+(638,518,o),
+(773,767,o),
+(908,849,q),
+(925,816,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65288;
+}

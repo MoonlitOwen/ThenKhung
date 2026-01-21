@@ -1,0 +1,19 @@
+{
+glyphname = divisionslash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = slash;
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 8725;
+}

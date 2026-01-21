@@ -1,0 +1,32 @@
+{
+glyphname = period.full.vert;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(888,700,o),
+(848,658,o),
+(817,658,q),
+(786,658,o),
+(746,700,o),
+(746,730,q),
+(746,760,o),
+(786,802,o),
+(817,802,q),
+(848,802,o),
+(888,760,o),
+(888,730,q)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

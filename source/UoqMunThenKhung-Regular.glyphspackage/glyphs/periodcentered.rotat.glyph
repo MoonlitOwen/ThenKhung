@@ -1,0 +1,32 @@
+{
+glyphname = periodcentered.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(395,651,o),
+(349,697,o),
+(349,730,q),
+(349,763,o),
+(395,809,o),
+(428,809,q),
+(461,809,o),
+(507,763,o),
+(507,730,q),
+(507,697,o),
+(461,651,o),
+(428,651,q)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 300;
+width = 1000;
+}
+);
+}

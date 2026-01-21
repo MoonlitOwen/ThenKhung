@@ -1,0 +1,25 @@
+{
+glyphname = blackdiamond;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(501,-88,l),
+(40,370,l),
+(501,831,l),
+(961,370,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9670;
+}

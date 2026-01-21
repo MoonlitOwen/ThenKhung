@@ -1,0 +1,42 @@
+{
+glyphname = boxdrawingslightquadrupledashhorizontal.half.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,836,l),
+(521,836,l),
+(521,757,l),
+(480,757,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,670,l),
+(521,670,l),
+(521,590,l),
+(480,590,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(480,504,l),
+(521,504,l),
+(521,424,l),
+(480,424,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

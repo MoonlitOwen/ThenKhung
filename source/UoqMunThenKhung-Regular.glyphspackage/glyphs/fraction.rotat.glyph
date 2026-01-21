@@ -1,0 +1,24 @@
+{
+glyphname = fraction.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(8,775,l),
+(36,817,l),
+(926,224,l),
+(899,183,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 760;
+width = 1000;
+}
+);
+}

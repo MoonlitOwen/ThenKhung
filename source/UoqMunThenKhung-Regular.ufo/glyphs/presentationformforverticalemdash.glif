@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalemdash" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE31"/>
+  <outline>
+    <contour>
+      <point x="524" y="-65" type="line"/>
+      <point x="475" y="-65" type="line"/>
+      <point x="475" y="800" type="line"/>
+      <point x="524" y="800" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

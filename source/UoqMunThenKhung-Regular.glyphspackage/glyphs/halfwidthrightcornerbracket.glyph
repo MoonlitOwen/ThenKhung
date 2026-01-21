@@ -1,0 +1,27 @@
+{
+glyphname = halfwidthrightcornerbracket;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(77,-103,l),
+(77,-60,l),
+(298,-60,l),
+(298,679,l),
+(347,679,l),
+(347,-103,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 65379;
+}

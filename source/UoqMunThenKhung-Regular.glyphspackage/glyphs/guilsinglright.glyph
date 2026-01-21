@@ -1,0 +1,27 @@
+{
+glyphname = guilsinglright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(114,71,l),
+(26,71,l),
+(196,265,l),
+(26,457,l),
+(114,457,l),
+(271,265,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 300;
+}
+);
+unicode = 8250;
+}

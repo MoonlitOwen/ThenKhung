@@ -1,0 +1,34 @@
+{
+glyphname = boxdrawingsdoublehorizontal;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,440,l),
+(1000,440,l),
+(1000,400,l),
+(0,400,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(1000,360,l),
+(1000,320,l),
+(0,320,l),
+(0,360,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9552;
+}

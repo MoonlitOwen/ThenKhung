@@ -1,0 +1,37 @@
+{
+glyphname = guillemetleft.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(370,763,l),
+(176,596,l),
+(176,681,l),
+(370,839,l),
+(562,681,l),
+(562,596,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(370,588,l),
+(176,419,l),
+(176,506,l),
+(370,663,l),
+(562,506,l),
+(562,419,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

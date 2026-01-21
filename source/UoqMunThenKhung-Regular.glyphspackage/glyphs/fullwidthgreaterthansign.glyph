@@ -1,0 +1,28 @@
+{
+glyphname = fullwidthgreaterthansign;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(221,-49,l),
+(180,-8,l),
+(804,378,l),
+(180,765,l),
+(222,806,l),
+(889,383,l),
+(889,374,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65310;
+}

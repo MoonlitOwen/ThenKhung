@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="righttortoiseshellbracket.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="356" y="29" type="line"/>
+      <point x="102" y="-106" type="line"/>
+      <point x="78" y="-57" type="line"/>
+      <point x="292" y="55" type="line"/>
+      <point x="292" y="702" type="line"/>
+      <point x="78" y="815" type="line"/>
+      <point x="102" y="864" type="line"/>
+      <point x="356" y="728" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

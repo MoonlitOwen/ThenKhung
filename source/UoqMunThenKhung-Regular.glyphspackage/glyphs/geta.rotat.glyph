@@ -1,0 +1,33 @@
+{
+glyphname = geta.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(224,-20,l),
+(224,757,l),
+(396,757,l),
+(396,-20,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(606,-20,l),
+(606,757,l),
+(777,757,l),
+(777,-20,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

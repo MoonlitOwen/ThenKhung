@@ -1,0 +1,36 @@
+{
+glyphname = presentationformforverticalrightblacklenticularbracket;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(37,495,l),
+(37,807,l),
+(51,807,l),
+(83,749,o),
+(186,679,o),
+(310,644,o),
+(440,632,o),
+(499,632,q),
+(560,632,o),
+(691,642,o),
+(815,675,o),
+(918,746,o),
+(950,807,q),
+(963,807,l),
+(963,495,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65084;
+}

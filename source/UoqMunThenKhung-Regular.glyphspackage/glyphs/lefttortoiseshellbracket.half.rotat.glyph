@@ -1,0 +1,28 @@
+{
+glyphname = lefttortoiseshellbracket.half.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(14,485,l),
+(149,739,l),
+(848,739,l),
+(984,485,l),
+(935,461,l),
+(822,675,l),
+(175,675,l),
+(63,461,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

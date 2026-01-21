@@ -1,0 +1,24 @@
+{
+glyphname = grave.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(866,557,l),
+(920,826,l),
+(997,807,l),
+(918,544,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 390;
+width = 1000;
+}
+);
+}

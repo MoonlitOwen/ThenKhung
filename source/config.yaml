@@ -6,4 +6,3 @@ extraFontmakeArgs: "--production-names"
 autohintOTF: False
 autohintTTF: False
 buildWebfont: False
-version: 1.005    # For some reason FC is exporting a weird version string

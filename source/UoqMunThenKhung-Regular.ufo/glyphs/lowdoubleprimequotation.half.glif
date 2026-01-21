@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lowdoubleprimequotation.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="285" y="-25" type="line"/>
+      <point x="188" y="-78" type="line"/>
+      <point x="60" y="247" type="line"/>
+      <point x="95" y="267" type="line"/>
+    </contour>
+    <contour>
+      <point x="439" y="43" type="line"/>
+      <point x="342" y="-10" type="line"/>
+      <point x="207" y="303" type="line"/>
+      <point x="247" y="324" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,25 @@
+{
+glyphname = halfwidthkatakanahiraganaprolongedsoundmod;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(445,334,l),
+(62,334,l),
+(62,415,l),
+(465,415,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 65392;
+}

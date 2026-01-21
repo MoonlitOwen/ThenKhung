@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingslightarcdownandright" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="256D"/>
+  <outline>
+    <contour>
+      <point x="1000" y="360" type="line"/>
+      <point x="520" y="360"/>
+      <point x="520" y="-120" type="qcurve"/>
+      <point x="480" y="-120" type="line"/>
+      <point x="480" y="400"/>
+      <point x="1000" y="400" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>879.90234375</real>
+    </dict>
+  </lib>
+</glyph>

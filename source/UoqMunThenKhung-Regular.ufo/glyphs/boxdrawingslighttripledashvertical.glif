@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingslighttripledashvertical" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2506"/>
+  <outline>
+    <contour>
+      <point x="520" y="-95" type="line"/>
+      <point x="479" y="-95" type="line"/>
+      <point x="479" y="27" type="line"/>
+      <point x="520" y="27" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="71" type="line"/>
+      <point x="479" y="71" type="line"/>
+      <point x="479" y="193" type="line"/>
+      <point x="520" y="193" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="237" type="line"/>
+      <point x="479" y="237" type="line"/>
+      <point x="479" y="360" type="line"/>
+      <point x="520" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="404" type="line"/>
+      <point x="479" y="404" type="line"/>
+      <point x="479" y="526" type="line"/>
+      <point x="520" y="526" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="570" type="line"/>
+      <point x="479" y="570" type="line"/>
+      <point x="479" y="693" type="line"/>
+      <point x="520" y="693" type="line"/>
+    </contour>
+    <contour>
+      <point x="520" y="737" type="line"/>
+      <point x="479" y="737" type="line"/>
+      <point x="479" y="859" type="line"/>
+      <point x="520" y="859" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

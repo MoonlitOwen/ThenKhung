@@ -1,0 +1,33 @@
+{
+glyphname = dotaccentcomb;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(306,697,o),
+(273,661,o),
+(250,661,q),
+(228,661,o),
+(194,697,o),
+(194,719,q),
+(194,741,o),
+(228,776,o),
+(250,776,q),
+(273,776,o),
+(306,741,o),
+(306,719,q)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 0;
+}
+);
+unicode = 775;
+}

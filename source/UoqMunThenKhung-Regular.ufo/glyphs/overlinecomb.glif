@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="overlinecomb" format="2">
+  <advance width="0" height="1000"/>
+  <unicode hex="0305"/>
+  <outline>
+    <contour>
+      <point x="500" y="854" type="line"/>
+      <point x="0" y="854" type="line"/>
+      <point x="0" y="888" type="line"/>
+      <point x="500" y="888" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+{
+glyphname = whitesquare;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(811,676,l),
+(189,676,l),
+(189,55,l),
+(812,54,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(134,0,l),
+(134,731,l),
+(866,730,l),
+(866,1,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9633;
+}

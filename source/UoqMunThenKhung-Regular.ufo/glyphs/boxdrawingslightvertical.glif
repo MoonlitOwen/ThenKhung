@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingslightvertical" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2502"/>
+  <outline>
+    <contour>
+      <point x="520" y="-120" type="line"/>
+      <point x="479" y="-120" type="line"/>
+      <point x="479" y="880" type="line"/>
+      <point x="520" y="880" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <real>879.8828125</real>
+    </dict>
+  </lib>
+</glyph>

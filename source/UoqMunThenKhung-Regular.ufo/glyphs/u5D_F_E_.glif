@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="u5DFE" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="5DFE"/>
+  <outline>
+    <contour>
+      <point x="889" y="273" type="line"/>
+      <point x="889" y="225"/>
+      <point x="866" y="150"/>
+      <point x="808" y="107"/>
+      <point x="753" y="107" type="qcurve"/>
+      <point x="724" y="107"/>
+      <point x="665" y="137"/>
+      <point x="614" y="182"/>
+      <point x="596" y="203" type="qcurve"/>
+      <point x="594" y="206"/>
+      <point x="584" y="219"/>
+      <point x="584" y="223" type="qcurve"/>
+      <point x="584" y="228"/>
+      <point x="590" y="228" type="qcurve"/>
+      <point x="594" y="228"/>
+      <point x="596" y="226" type="qcurve"/>
+      <point x="599" y="225"/>
+      <point x="605" y="223"/>
+      <point x="608" y="222" type="qcurve"/>
+      <point x="618" y="218"/>
+      <point x="637" y="211"/>
+      <point x="647" y="209" type="qcurve"/>
+      <point x="683" y="198"/>
+      <point x="717" y="198" type="qcurve"/>
+      <point x="735" y="198"/>
+      <point x="753" y="221"/>
+      <point x="759" y="253"/>
+      <point x="759" y="267" type="qcurve"/>
+      <point x="759" y="345"/>
+      <point x="759" y="500"/>
+      <point x="758" y="578" type="qcurve"/>
+      <point x="556" y="578" type="line"/>
+      <point x="556" y="-85" type="line"/>
+      <point x="434" y="-85" type="line"/>
+      <point x="434" y="578" type="line"/>
+      <point x="259" y="578" type="line"/>
+      <point x="259" y="105" type="line"/>
+      <point x="139" y="105" type="line"/>
+      <point x="139" y="625" type="line"/>
+      <point x="434" y="625" type="line"/>
+      <point x="434" y="833" type="line"/>
+      <point x="556" y="833" type="line"/>
+      <point x="556" y="625" type="line"/>
+      <point x="639" y="624"/>
+      <point x="806" y="625"/>
+      <point x="889" y="625" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+{
+glyphname = downwardsblackarrow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,-19,l),
+(268,261,l),
+(412,261,l),
+(412,775,l),
+(586,775,l),
+(586,261,l),
+(732,261,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 11015;
+}

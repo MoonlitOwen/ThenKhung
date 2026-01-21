@@ -1,0 +1,24 @@
+{
+glyphname = acutecomb.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(764,748,l),
+(808,773,l),
+(912,520,l),
+(844,487,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 0;
+}
+);
+}

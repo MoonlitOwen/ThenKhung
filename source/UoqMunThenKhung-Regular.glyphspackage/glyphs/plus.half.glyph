@@ -1,0 +1,32 @@
+{
+glyphname = plus.half;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(280,345,l),
+(280,147,l),
+(219,147,l),
+(219,345,l),
+(21,345,l),
+(21,387,l),
+(219,387,l),
+(219,584,l),
+(280,584,l),
+(280,387,l),
+(481,387,l),
+(481,345,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+}

@@ -1,0 +1,25 @@
+{
+glyphname = blackdiamondsuit;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,10,l),
+(206,379,l),
+(500,748,l),
+(794,379,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9830;
+}

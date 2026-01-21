@@ -1,0 +1,33 @@
+{
+glyphname = halfwidthkatakanamiddledot;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(342,339,o),
+(288,285,o),
+(250,285,q),
+(212,285,o),
+(158,339,o),
+(158,377,q),
+(158,415,o),
+(212,469,o),
+(250,469,q),
+(288,469,o),
+(342,415,o),
+(342,377,q)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 65381;
+}

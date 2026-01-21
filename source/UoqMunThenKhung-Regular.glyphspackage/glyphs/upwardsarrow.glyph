@@ -1,0 +1,30 @@
+{
+glyphname = upwardsarrow;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(658,533,l),
+(530,659,l),
+(530,-58,l),
+(472,-58,l),
+(472,659,l),
+(340,533,l),
+(327,549,l),
+(502,816,l),
+(674,549,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 8593;
+}

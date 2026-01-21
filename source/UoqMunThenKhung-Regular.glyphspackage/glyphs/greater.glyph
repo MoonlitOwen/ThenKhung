@@ -1,0 +1,27 @@
+{
+glyphname = greater;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(66,42,l),
+(66,121,l),
+(561,359,l),
+(66,594,l),
+(66,674,l),
+(685,359,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 780;
+}
+);
+unicode = 62;
+}

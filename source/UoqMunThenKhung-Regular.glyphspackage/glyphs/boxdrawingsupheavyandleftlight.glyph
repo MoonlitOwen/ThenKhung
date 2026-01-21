@@ -1,0 +1,27 @@
+{
+glyphname = boxdrawingsupheavyandleftlight;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,359,l),
+(0,399,l),
+(438,399,l),
+(438,880,l),
+(561,880,l),
+(561,359,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9498;
+}

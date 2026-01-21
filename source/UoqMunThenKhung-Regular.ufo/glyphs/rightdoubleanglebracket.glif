@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightdoubleanglebracket" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="300B"/>
+  <outline>
+    <contour>
+      <point x="328" y="380" type="line"/>
+      <point x="103" y="-66" type="line"/>
+      <point x="66" y="-40" type="line"/>
+      <point x="268" y="380" type="line"/>
+      <point x="63" y="803" type="line"/>
+      <point x="101" y="830" type="line"/>
+    </contour>
+    <contour>
+      <point x="454" y="380" type="line"/>
+      <point x="226" y="-66" type="line"/>
+      <point x="190" y="-40" type="line"/>
+      <point x="394" y="380" type="line"/>
+      <point x="187" y="803" type="line"/>
+      <point x="227" y="829" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

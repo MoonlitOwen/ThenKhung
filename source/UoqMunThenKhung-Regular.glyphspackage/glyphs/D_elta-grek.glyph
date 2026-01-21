@@ -1,0 +1,33 @@
+{
+glyphname = "Delta-grek";
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(484,664,l),
+(252,111,l),
+(701,111,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(152,27,l),
+(451,757,l),
+(546,810,l),
+(849,27,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 916;
+}

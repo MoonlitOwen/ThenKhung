@@ -1,0 +1,37 @@
+{
+glyphname = katakanamiddledot;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(607,342,o),
+(578,292,o),
+(529,263,o),
+(499,263,q),
+(470,263,o),
+(420,292,o),
+(391,342,o),
+(391,371,q),
+(391,401,o),
+(420,450,o),
+(470,479,o),
+(499,479,q),
+(529,479,o),
+(578,450,o),
+(607,401,o),
+(607,371,q)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 12539;
+}

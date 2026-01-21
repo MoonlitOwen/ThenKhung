@@ -1,0 +1,39 @@
+{
+glyphname = presentationformforverticalparenright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(905,643,o),
+(652,508,o),
+(496,508,q),
+(394,508,o),
+(210,569,o),
+(61,690,o),
+(11,779,q),
+(46,794,l),
+(81,743,o),
+(186,670,o),
+(309,624,o),
+(437,602,o),
+(497,602,q),
+(580,602,o),
+(753,641,o),
+(904,726,o),
+(954,795,q),
+(987,778,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65078;
+}

@@ -1,0 +1,26 @@
+{
+glyphname = boxdrawingsheavyupandright.half;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(190,316,l),
+(190,878,l),
+(313,878,l),
+(313,439,l),
+(499,439,l),
+(499,316,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+}

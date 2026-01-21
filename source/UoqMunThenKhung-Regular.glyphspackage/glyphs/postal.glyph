@@ -1,0 +1,38 @@
+{
+glyphname = postal;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(557,448,l),
+(557,-48,l),
+(447,-48,l),
+(447,448,l),
+(155,448,l),
+(155,526,l),
+(859,526,l),
+(859,448,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(155,642,l),
+(155,726,l),
+(859,726,l),
+(859,642,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 12306;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = katakanahiraganaprolongedsoundmod.half.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(454,435,l),
+(454,818,l),
+(535,818,l),
+(535,415,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

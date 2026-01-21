@@ -1,0 +1,25 @@
+{
+glyphname = fullwidthmacronmod;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(0,829,l),
+(0,880,l),
+(1000,880,l),
+(1000,829,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65507;
+}

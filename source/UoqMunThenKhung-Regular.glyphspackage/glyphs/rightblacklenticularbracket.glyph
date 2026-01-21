@@ -1,0 +1,36 @@
+{
+glyphname = rightblacklenticularbracket;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(72,-84,l),
+(72,-71,l),
+(133,-38,o),
+(203,64,o),
+(237,188,o),
+(247,319,o),
+(247,380,q),
+(247,440,o),
+(235,569,o),
+(199,693,o),
+(130,795,o),
+(72,828,q),
+(72,842,l),
+(383,842,l),
+(383,-84,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 12305;
+}

@@ -1,0 +1,25 @@
+{
+glyphname = halfwidthformslightvertical;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(221,-118,l),
+(221,877,l),
+(279,877,l),
+(279,-118,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 65512;
+}

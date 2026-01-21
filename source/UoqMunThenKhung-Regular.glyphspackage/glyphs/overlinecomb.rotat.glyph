@@ -1,0 +1,24 @@
+{
+glyphname = overlinecomb.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(974,880,l),
+(1008,880,l),
+(1008,380,l),
+(974,380,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 0;
+}
+);
+}

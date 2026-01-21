@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="leftwardsarrowoverrightwardsarrow" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="21C6"/>
+  <outline>
+    <contour>
+      <point x="893" y="211" type="line"/>
+      <point x="652" y="50" type="line"/>
+      <point x="633" y="81" type="line"/>
+      <point x="774" y="188" type="line"/>
+      <point x="118" y="188" type="line"/>
+      <point x="118" y="231" type="line"/>
+      <point x="774" y="231" type="line"/>
+      <point x="637" y="335" type="line"/>
+      <point x="651" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="882" y="526" type="line"/>
+      <point x="225" y="526" type="line"/>
+      <point x="362" y="422" type="line"/>
+      <point x="348" y="389" type="line"/>
+      <point x="107" y="547" type="line"/>
+      <point x="347" y="707" type="line"/>
+      <point x="366" y="677" type="line"/>
+      <point x="225" y="569" type="line"/>
+      <point x="882" y="569" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

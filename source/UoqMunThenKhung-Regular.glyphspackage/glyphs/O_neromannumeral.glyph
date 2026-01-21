@@ -1,0 +1,33 @@
+{
+glyphname = Oneromannumeral;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(554,725,l),
+(554,8,l),
+(617,8,l),
+(617,-23,l),
+(380,-23,l),
+(380,8,l),
+(443,8,l),
+(443,725,l),
+(379,725,l),
+(379,758,l),
+(621,758,l),
+(621,725,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 8544;
+}

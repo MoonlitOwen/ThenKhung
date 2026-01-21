@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ideographiczero-hani" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="3007"/>
+  <outline>
+    <contour>
+      <point x="808" y="383" type="qcurve"/>
+      <point x="808" y="447"/>
+      <point x="765" y="564"/>
+      <point x="686" y="656"/>
+      <point x="576" y="709"/>
+      <point x="509" y="709" type="qcurve"/>
+      <point x="439" y="709"/>
+      <point x="322" y="652"/>
+      <point x="236" y="554"/>
+      <point x="189" y="430"/>
+      <point x="189" y="363" type="qcurve"/>
+      <point x="189" y="299"/>
+      <point x="232" y="182"/>
+      <point x="312" y="90"/>
+      <point x="422" y="37"/>
+      <point x="489" y="37" type="qcurve"/>
+      <point x="558" y="37"/>
+      <point x="675" y="94"/>
+      <point x="761" y="192"/>
+      <point x="808" y="316"/>
+    </contour>
+    <contour>
+      <point x="913" y="386" type="qcurve"/>
+      <point x="913" y="301"/>
+      <point x="844" y="154"/>
+      <point x="724" y="46"/>
+      <point x="572" y="-15"/>
+      <point x="489" y="-15" type="qcurve"/>
+      <point x="410" y="-15"/>
+      <point x="265" y="41"/>
+      <point x="152" y="143"/>
+      <point x="87" y="280"/>
+      <point x="87" y="362" type="qcurve"/>
+      <point x="87" y="448"/>
+      <point x="157" y="594"/>
+      <point x="277" y="702"/>
+      <point x="429" y="763"/>
+      <point x="512" y="763" type="qcurve"/>
+      <point x="594" y="763"/>
+      <point x="739" y="709"/>
+      <point x="850" y="609"/>
+      <point x="913" y="471"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

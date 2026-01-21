@@ -1,0 +1,69 @@
+{
+glyphname = boxdrawingsheavyquadrupledashvertical.half;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(191,-73,l),
+(191,6,l),
+(314,6,l),
+(314,-73,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(191,93,l),
+(191,173,l),
+(314,173,l),
+(314,93,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(191,259,l),
+(191,339,l),
+(314,339,l),
+(314,259,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(191,426,l),
+(191,506,l),
+(314,506,l),
+(314,426,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(191,593,l),
+(191,672,l),
+(314,672,l),
+(314,593,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(191,759,l),
+(191,839,l),
+(314,839,l),
+(314,759,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+}

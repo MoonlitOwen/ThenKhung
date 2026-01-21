@@ -1,0 +1,25 @@
+{
+glyphname = u4E28;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(438,-36,l),
+(438,773,l),
+(562,773,l),
+(562,-36,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 20008;
+}

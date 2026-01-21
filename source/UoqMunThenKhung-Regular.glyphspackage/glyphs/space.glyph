@@ -1,0 +1,14 @@
+{
+glyphname = space;
+layers = (
+{
+layerId = m001;
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 250;
+}
+);
+unicode = 32;
+}

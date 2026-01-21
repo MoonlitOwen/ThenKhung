@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown.half" format="2">
+  <advance width="500" height="1000"/>
+  <outline>
+    <contour>
+      <point x="415" y="67" type="qcurve"/>
+      <point x="415" y="35"/>
+      <point x="404" y="4" type="qcurve"/>
+      <point x="385" y="-51"/>
+      <point x="306" y="-120"/>
+      <point x="245" y="-120" type="qcurve"/>
+      <point x="169" y="-120"/>
+      <point x="85" y="-39"/>
+      <point x="85" y="37" type="qcurve"/>
+      <point x="85" y="65"/>
+      <point x="114" y="116"/>
+      <point x="158" y="171"/>
+      <point x="201" y="236"/>
+      <point x="230" y="321"/>
+      <point x="230" y="377" type="qcurve"/>
+      <point x="279" y="377" type="line"/>
+      <point x="279" y="334"/>
+      <point x="276" y="255"/>
+      <point x="257" y="179"/>
+      <point x="232" y="141" type="qcurve"/>
+      <point x="215" y="115"/>
+      <point x="194" y="83"/>
+      <point x="184" y="47"/>
+      <point x="184" y="14" type="qcurve"/>
+      <point x="184" y="-7"/>
+      <point x="193" y="-54"/>
+      <point x="221" y="-88"/>
+      <point x="248" y="-88" type="qcurve"/>
+      <point x="276" y="-88"/>
+      <point x="310" y="-56"/>
+      <point x="326" y="-8"/>
+      <point x="326" y="15" type="qcurve"/>
+      <point x="326" y="30"/>
+      <point x="319" y="58"/>
+      <point x="319" y="72" type="qcurve"/>
+      <point x="319" y="93"/>
+      <point x="350" y="128"/>
+      <point x="372" y="128" type="qcurve"/>
+      <point x="393" y="128"/>
+      <point x="415" y="85"/>
+    </contour>
+    <contour>
+      <point x="306" y="492" type="qcurve"/>
+      <point x="306" y="466"/>
+      <point x="275" y="433"/>
+      <point x="249" y="433" type="qcurve"/>
+      <point x="227" y="433"/>
+      <point x="194" y="470"/>
+      <point x="194" y="492" type="qcurve"/>
+      <point x="194" y="514"/>
+      <point x="228" y="550"/>
+      <point x="250" y="550" type="qcurve"/>
+      <point x="273" y="550"/>
+      <point x="306" y="514"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

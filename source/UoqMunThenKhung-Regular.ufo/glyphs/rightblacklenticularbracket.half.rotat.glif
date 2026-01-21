@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="rightblacklenticularbracket.half.rotat" format="2">
+  <advance width="1000" height="500"/>
+  <outline>
+    <contour>
+      <point x="26" y="506" type="line"/>
+      <point x="26" y="808" type="line"/>
+      <point x="39" y="808" type="line"/>
+      <point x="71" y="747"/>
+      <point x="177" y="676"/>
+      <point x="305" y="643"/>
+      <point x="439" y="633"/>
+      <point x="500" y="633" type="qcurve"/>
+      <point x="559" y="633"/>
+      <point x="692" y="645"/>
+      <point x="820" y="680"/>
+      <point x="926" y="750"/>
+      <point x="958" y="808" type="qcurve"/>
+      <point x="972" y="808" type="line"/>
+      <point x="972" y="506" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

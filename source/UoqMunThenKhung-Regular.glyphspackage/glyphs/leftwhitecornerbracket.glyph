@@ -1,0 +1,38 @@
+{
+glyphname = leftwhitecornerbracket;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(888,828,l),
+(642,828,l),
+(642,32,l),
+(706,32,l),
+(706,775,l),
+(888,775,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(739,743,l),
+(739,0,l),
+(608,0,l),
+(608,860,l),
+(921,860,l),
+(921,743,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 12302;
+}

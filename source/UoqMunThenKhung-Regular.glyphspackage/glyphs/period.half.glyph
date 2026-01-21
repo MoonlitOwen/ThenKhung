@@ -1,0 +1,32 @@
+{
+glyphname = period.half;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(323,41,o),
+(279,9,o),
+(251,9,q),
+(223,9,o),
+(178,41,o),
+(178,71,q),
+(178,101,o),
+(223,133,o),
+(251,133,q),
+(278,133,o),
+(323,100,o),
+(323,71,q)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+}

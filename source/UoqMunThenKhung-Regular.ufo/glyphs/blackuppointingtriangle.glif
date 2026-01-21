@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackuppointingtriangle" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="25B2"/>
+  <outline>
+    <contour>
+      <point x="948" y="15" type="line"/>
+      <point x="52" y="15" type="line"/>
+      <point x="501" y="787" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+{
+glyphname = blackstar;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(674,274,l),
+(777,-55,l),
+(499,142,l),
+(218,-54,l),
+(319,274,l),
+(44,474,l),
+(385,474,l),
+(499,814,l),
+(612,474,l),
+(957,474,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9733;
+}

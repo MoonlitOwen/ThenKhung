@@ -1,0 +1,33 @@
+{
+glyphname = brokenbar.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(29,724,l),
+(454,724,l),
+(454,636,l),
+(29,636,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(543,724,l),
+(969,724,l),
+(969,636,l),
+(543,636,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 400;
+width = 1000;
+}
+);
+}

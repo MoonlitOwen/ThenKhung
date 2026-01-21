@@ -1,0 +1,32 @@
+{
+glyphname = dotaccentcomb.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(817,574,o),
+(781,608,o),
+(781,630,q),
+(781,653,o),
+(817,686,o),
+(839,686,q),
+(861,686,o),
+(896,653,o),
+(896,630,q),
+(896,608,o),
+(861,574,o),
+(839,574,q)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 0;
+}
+);
+}

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalparenleft" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE35"/>
+  <outline>
+    <contour>
+      <point x="954" y="-35" type="line"/>
+      <point x="904" y="35"/>
+      <point x="753" y="119"/>
+      <point x="580" y="158"/>
+      <point x="497" y="158" type="qcurve"/>
+      <point x="437" y="158"/>
+      <point x="309" y="136"/>
+      <point x="186" y="90"/>
+      <point x="81" y="17"/>
+      <point x="46" y="-34" type="qcurve"/>
+      <point x="11" y="-19" type="line"/>
+      <point x="61" y="71"/>
+      <point x="210" y="191"/>
+      <point x="394" y="252"/>
+      <point x="496" y="252" type="qcurve"/>
+      <point x="652" y="252"/>
+      <point x="905" y="117"/>
+      <point x="987" y="-18" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

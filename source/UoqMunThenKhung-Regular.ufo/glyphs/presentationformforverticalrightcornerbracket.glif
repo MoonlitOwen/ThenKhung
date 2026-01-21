@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="presentationformforverticalrightcornerbracket" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="FE42"/>
+  <outline>
+    <contour>
+      <point x="798" y="533" type="line"/>
+      <point x="16" y="533" type="line"/>
+      <point x="16" y="803" type="line"/>
+      <point x="59" y="803" type="line"/>
+      <point x="59" y="582" type="line"/>
+      <point x="798" y="582" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

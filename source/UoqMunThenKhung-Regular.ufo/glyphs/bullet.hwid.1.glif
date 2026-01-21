@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="bullet.hwid.1" format="2">
+  <advance width="1000" height="500"/>
+  <outline>
+    <contour>
+      <point x="584" y="630" type="qcurve"/>
+      <point x="584" y="593"/>
+      <point x="533" y="542"/>
+      <point x="496" y="542" type="qcurve"/>
+      <point x="459" y="542"/>
+      <point x="408" y="593"/>
+      <point x="408" y="630" type="qcurve"/>
+      <point x="408" y="667"/>
+      <point x="459" y="718"/>
+      <point x="496" y="718" type="qcurve"/>
+      <point x="533" y="718"/>
+      <point x="584" y="667"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

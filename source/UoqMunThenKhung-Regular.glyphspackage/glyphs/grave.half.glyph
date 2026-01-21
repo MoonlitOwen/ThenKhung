@@ -1,0 +1,24 @@
+{
+glyphname = grave.half;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(396,714,l),
+(142,776,l),
+(157,842,l),
+(408,746,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+}

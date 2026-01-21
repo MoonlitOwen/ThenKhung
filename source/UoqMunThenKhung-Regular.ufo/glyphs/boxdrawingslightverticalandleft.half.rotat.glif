@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingslightverticalandleft.half.rotat" format="2">
+  <advance width="1000" height="500"/>
+  <outline>
+    <contour>
+      <point x="3" y="609" type="line"/>
+      <point x="3" y="650" type="line"/>
+      <point x="480" y="650" type="line"/>
+      <point x="480" y="879" type="line"/>
+      <point x="521" y="879" type="line"/>
+      <point x="521" y="650" type="line"/>
+      <point x="999" y="650" type="line"/>
+      <point x="999" y="609" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

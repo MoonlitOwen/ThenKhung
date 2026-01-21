@@ -1,0 +1,32 @@
+{
+glyphname = whitedownpointingtriangle;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(157,688,l),
+(501,93,l),
+(847,688,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(500,-31,l),
+(53,742,l),
+(948,742,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9661;
+}

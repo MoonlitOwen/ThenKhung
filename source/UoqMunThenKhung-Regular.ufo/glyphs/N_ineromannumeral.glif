@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Nineromannumeral" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2168"/>
+  <outline>
+    <contour>
+      <point x="567" y="361" type="line"/>
+      <point x="372" y="725" type="line"/>
+      <point x="278" y="725" type="line"/>
+      <point x="278" y="8" type="line"/>
+      <point x="382" y="8" type="line"/>
+    </contour>
+    <contour>
+      <point x="941" y="-23" type="line"/>
+      <point x="704" y="-23" type="line"/>
+      <point x="704" y="8" type="line"/>
+      <point x="760" y="8" type="line"/>
+      <point x="604" y="297" type="line"/>
+      <point x="453" y="8" type="line"/>
+      <point x="518" y="8" type="line"/>
+      <point x="518" y="-23" type="line"/>
+      <point x="96" y="-23" type="line"/>
+      <point x="96" y="8" type="line"/>
+      <point x="165" y="8" type="line"/>
+      <point x="165" y="725" type="line"/>
+      <point x="96" y="725" type="line"/>
+      <point x="96" y="758" type="line"/>
+      <point x="543" y="758" type="line"/>
+      <point x="543" y="725" type="line"/>
+      <point x="495" y="725" type="line"/>
+      <point x="626" y="453" type="line"/>
+      <point x="753" y="725" type="line"/>
+      <point x="685" y="725" type="line"/>
+      <point x="685" y="758" type="line"/>
+      <point x="910" y="758" type="line"/>
+      <point x="910" y="725" type="line"/>
+      <point x="842" y="725" type="line"/>
+      <point x="665" y="393" type="line"/>
+      <point x="882" y="8" type="line"/>
+      <point x="941" y="8" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

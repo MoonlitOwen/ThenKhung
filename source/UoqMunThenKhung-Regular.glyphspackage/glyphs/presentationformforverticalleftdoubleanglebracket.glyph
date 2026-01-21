@@ -1,0 +1,38 @@
+{
+glyphname = presentationformforverticalleftdoubleanglebracket;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(951,-59,l),
+(500,152,l),
+(41,-56,l),
+(15,-17,l),
+(500,208,l),
+(978,-19,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(951,65,l),
+(500,276,l),
+(41,68,l),
+(15,106,l),
+(500,334,l),
+(977,107,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65085;
+}

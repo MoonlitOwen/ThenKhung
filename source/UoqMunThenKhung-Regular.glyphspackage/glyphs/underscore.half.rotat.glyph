@@ -1,0 +1,24 @@
+{
+glyphname = underscore.half.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(-2,891,l),
+(33,891,l),
+(33,371,l),
+(-2,371,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halfwidthkatakanama-kana" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="FF8F"/>
+  <outline>
+    <contour>
+      <point x="456" y="616" type="line"/>
+      <point x="454" y="539"/>
+      <point x="414" y="372"/>
+      <point x="334" y="224"/>
+      <point x="272" y="174" type="qcurve"/>
+      <point x="280" y="161"/>
+      <point x="303" y="112"/>
+      <point x="324" y="56"/>
+      <point x="338" y="6"/>
+      <point x="338" y="-9" type="qcurve"/>
+      <point x="338" y="-12"/>
+      <point x="335" y="-22"/>
+      <point x="330" y="-22" type="qcurve"/>
+      <point x="327" y="-22"/>
+      <point x="314" y="-5"/>
+      <point x="302" y="14"/>
+      <point x="300" y="17" type="qcurve"/>
+      <point x="275" y="57"/>
+      <point x="209" y="144"/>
+      <point x="136" y="225"/>
+      <point x="99" y="254" type="qcurve"/>
+      <point x="110" y="279"/>
+      <point x="131" y="330"/>
+      <point x="141" y="355" type="qcurve"/>
+      <point x="174" y="327"/>
+      <point x="230" y="247"/>
+      <point x="253" y="210" type="qcurve"/>
+      <point x="275" y="241"/>
+      <point x="316" y="329"/>
+      <point x="349" y="428"/>
+      <point x="370" y="523"/>
+      <point x="372" y="560" type="qcurve"/>
+      <point x="30" y="540" type="line"/>
+      <point x="30" y="601" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

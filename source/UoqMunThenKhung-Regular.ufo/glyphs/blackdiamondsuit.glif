@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="blackdiamondsuit" format="2">
+  <advance width="1000" height="1000"/>
+  <unicode hex="2666"/>
+  <outline>
+    <contour>
+      <point x="794" y="379" type="line"/>
+      <point x="500" y="10" type="line"/>
+      <point x="206" y="379" type="line"/>
+      <point x="500" y="748" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

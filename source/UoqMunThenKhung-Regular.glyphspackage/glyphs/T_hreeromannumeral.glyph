@@ -1,0 +1,51 @@
+{
+glyphname = Threeromannumeral;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(444,725,l),
+(316,725,l),
+(316,8,l),
+(444,8,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(682,725,l),
+(556,725,l),
+(556,8,l),
+(682,8,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(128,-23,l),
+(128,8,l),
+(205,8,l),
+(205,725,l),
+(135,725,l),
+(135,758,l),
+(862,758,l),
+(862,725,l),
+(793,725,l),
+(793,8,l),
+(872,8,l),
+(872,-23,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 8546;
+}

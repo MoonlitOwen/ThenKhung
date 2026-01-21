@@ -1,0 +1,27 @@
+{
+glyphname = caroncomb;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(250,649,l),
+(79,731,l),
+(89,777,l),
+(248,724,l),
+(412,779,l),
+(421,733,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 0;
+}
+);
+unicode = 780;
+}

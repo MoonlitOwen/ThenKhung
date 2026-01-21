@@ -1,0 +1,26 @@
+{
+glyphname = greater.half;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(91,-5,l),
+(91,53,l),
+(384,275,l),
+(91,492,l),
+(91,555,l),
+(456,275,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+}

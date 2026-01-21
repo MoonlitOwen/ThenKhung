@@ -1,0 +1,32 @@
+{
+glyphname = whiteuppointingtriangle;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(500,641,l),
+(154,46,l),
+(844,46,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(53,-7,l),
+(501,766,l),
+(948,-7,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9651;
+}

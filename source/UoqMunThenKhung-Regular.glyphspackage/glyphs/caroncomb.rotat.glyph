@@ -1,0 +1,26 @@
+{
+glyphname = caroncomb.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(769,630,l),
+(851,801,l),
+(897,791,l),
+(844,632,l),
+(899,468,l),
+(853,459,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 0;
+}
+);
+}

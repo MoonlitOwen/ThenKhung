@@ -1,0 +1,25 @@
+{
+glyphname = presentationformforverticalemdash;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(475,-65,l),
+(475,800,l),
+(524,800,l),
+(524,-65,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65073;
+}

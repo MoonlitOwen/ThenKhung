@@ -1,0 +1,26 @@
+{
+glyphname = rightanglebracket.half;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(99,-99,l),
+(54,-73,l),
+(367,380,l),
+(52,830,l),
+(98,856,l),
+(426,380,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+}

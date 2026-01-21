@@ -1,0 +1,24 @@
+{
+glyphname = blackuppointingtriangle.half.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(97,842,l),
+(871,643,l),
+(871,617,l),
+(97,418,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

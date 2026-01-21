@@ -1,0 +1,41 @@
+{
+glyphname = boxdrawingsverticalsingleandhorizontaldouble;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(1000,360,l),
+(1000,320,l),
+(520,320,l),
+(520,-120,l),
+(480,-120,l),
+(480,320,l),
+(0,320,l),
+(0,360,l),
+(480,360,l),
+(480,400,l),
+(0,400,l),
+(0,440,l),
+(480,440,l),
+(480,880,l),
+(520,880,l),
+(520,440,l),
+(1000,440,l),
+(1000,400,l),
+(520,400,l),
+(520,360,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 879.88281;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 9578;
+}

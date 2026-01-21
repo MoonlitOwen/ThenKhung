@@ -1,0 +1,36 @@
+{
+glyphname = Fiveromannumeral;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(796,725,l),
+(545,-21,l),
+(436,-21,l),
+(203,725,l),
+(139,725,l),
+(139,758,l),
+(389,758,l),
+(389,725,l),
+(330,725,l),
+(521,80,l),
+(724,725,l),
+(639,725,l),
+(639,758,l),
+(860,758,l),
+(860,725,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 8548;
+}

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="halfwidthkatakanamiddledot" format="2">
+  <advance width="500" height="1000"/>
+  <unicode hex="FF65"/>
+  <outline>
+    <contour>
+      <point x="342" y="377" type="qcurve"/>
+      <point x="342" y="339"/>
+      <point x="288" y="285"/>
+      <point x="250" y="285" type="qcurve"/>
+      <point x="212" y="285"/>
+      <point x="158" y="339"/>
+      <point x="158" y="377" type="qcurve"/>
+      <point x="158" y="415"/>
+      <point x="212" y="469"/>
+      <point x="250" y="469" type="qcurve"/>
+      <point x="288" y="469"/>
+      <point x="342" y="415"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,28 @@
+{
+glyphname = bracketleft.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(21,718,l),
+(974,718,l),
+(974,448,l),
+(934,448,l),
+(934,627,l),
+(60,627,l),
+(60,448,l),
+(21,448,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 450;
+width = 1000;
+}
+);
+}

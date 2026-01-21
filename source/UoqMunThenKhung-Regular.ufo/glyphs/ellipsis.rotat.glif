@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ellipsis.rotat" format="2">
+  <advance width="1000" height="1000"/>
+  <outline>
+    <contour>
+      <point x="202" y="642" type="qcurve"/>
+      <point x="171" y="642"/>
+      <point x="127" y="687"/>
+      <point x="127" y="718" type="qcurve"/>
+      <point x="127" y="749"/>
+      <point x="171" y="793"/>
+      <point x="202" y="793" type="qcurve"/>
+      <point x="233" y="793"/>
+      <point x="277" y="749"/>
+      <point x="277" y="718" type="qcurve"/>
+      <point x="277" y="687"/>
+      <point x="234" y="642"/>
+    </contour>
+    <contour>
+      <point x="202" y="305" type="qcurve"/>
+      <point x="171" y="305"/>
+      <point x="127" y="350"/>
+      <point x="127" y="381" type="qcurve"/>
+      <point x="127" y="412"/>
+      <point x="171" y="456"/>
+      <point x="202" y="456" type="qcurve"/>
+      <point x="233" y="456"/>
+      <point x="277" y="412"/>
+      <point x="277" y="381" type="qcurve"/>
+      <point x="277" y="350"/>
+      <point x="234" y="305"/>
+    </contour>
+    <contour>
+      <point x="202" y="-27" type="qcurve"/>
+      <point x="171" y="-27"/>
+      <point x="127" y="17"/>
+      <point x="127" y="48" type="qcurve"/>
+      <point x="127" y="80"/>
+      <point x="171" y="124"/>
+      <point x="202" y="124" type="qcurve"/>
+      <point x="234" y="124"/>
+      <point x="277" y="80"/>
+      <point x="277" y="48" type="qcurve"/>
+      <point x="277" y="17"/>
+      <point x="234" y="-27"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

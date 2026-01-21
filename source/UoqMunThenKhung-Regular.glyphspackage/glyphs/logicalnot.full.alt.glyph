@@ -1,0 +1,26 @@
+{
+glyphname = logicalnot.full.alt;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(855,5,l),
+(855,476,l),
+(104,476,l),
+(104,527,l),
+(906,527,l),
+(906,5,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+}

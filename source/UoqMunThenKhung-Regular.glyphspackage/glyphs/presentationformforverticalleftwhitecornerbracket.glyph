@@ -1,0 +1,38 @@
+{
+glyphname = presentationformforverticalleftwhitecornerbracket;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(948,238,l),
+(152,238,l),
+(152,174,l),
+(895,174,l),
+(895,-8,l),
+(948,-8,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(863,-41,l),
+(863,141,l),
+(120,141,l),
+(120,272,l),
+(980,272,l),
+(980,-41,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65091;
+}

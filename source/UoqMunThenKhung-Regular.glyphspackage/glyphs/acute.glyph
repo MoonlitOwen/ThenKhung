@@ -1,0 +1,19 @@
+{
+glyphname = acute;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+ref = acutecomb;
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 180;
+}

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="boxdrawingsheavyquadrupledashvertical.half.rotat" format="2">
+  <advance width="1000" height="500"/>
+  <outline>
+    <contour>
+      <point x="47" y="566" type="line"/>
+      <point x="47" y="689" type="line"/>
+      <point x="126" y="689" type="line"/>
+      <point x="126" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="213" y="566" type="line"/>
+      <point x="213" y="689" type="line"/>
+      <point x="293" y="689" type="line"/>
+      <point x="293" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="379" y="566" type="line"/>
+      <point x="379" y="689" type="line"/>
+      <point x="459" y="689" type="line"/>
+      <point x="459" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="546" y="566" type="line"/>
+      <point x="546" y="689" type="line"/>
+      <point x="626" y="689" type="line"/>
+      <point x="626" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="713" y="566" type="line"/>
+      <point x="713" y="689" type="line"/>
+      <point x="792" y="689" type="line"/>
+      <point x="792" y="566" type="line"/>
+    </contour>
+    <contour>
+      <point x="879" y="566" type="line"/>
+      <point x="879" y="689" type="line"/>
+      <point x="959" y="689" type="line"/>
+      <point x="959" y="566" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

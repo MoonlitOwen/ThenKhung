@@ -1,0 +1,32 @@
+{
+glyphname = plus.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(453,475,l),
+(184,475,l),
+(184,535,l),
+(453,535,l),
+(453,808,l),
+(512,808,l),
+(512,535,l),
+(774,535,l),
+(774,475,l),
+(512,475,l),
+(512,201,l),
+(453,201,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 750;
+width = 1000;
+}
+);
+}

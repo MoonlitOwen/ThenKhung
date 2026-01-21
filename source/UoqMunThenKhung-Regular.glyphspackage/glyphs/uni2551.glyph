@@ -1,0 +1,33 @@
+{
+glyphname = uni2551;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(560,880,l),
+(560,-120,l),
+(520,-120,l),
+(520,880,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(440,-120,l),
+(440,880,l),
+(480,880,l),
+(480,-120,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = -0.11719;
+};
+width = 1000;
+}
+);
+unicode = 9553;
+}

@@ -1,0 +1,38 @@
+{
+glyphname = guillemetright;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(129,56,l),
+(41,56,l),
+(211,250,l),
+(41,442,l),
+(129,442,l),
+(285,250,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(304,56,l),
+(218,56,l),
+(386,250,l),
+(218,442,l),
+(304,442,l),
+(461,250,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 187;
+}

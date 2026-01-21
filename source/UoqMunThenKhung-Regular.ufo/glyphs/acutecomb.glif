@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="acutecomb" format="2">
+  <advance width="0" height="1000"/>
+  <unicode hex="0301"/>
+  <outline>
+    <contour>
+      <point x="393" y="724" type="line"/>
+      <point x="132" y="644" type="line"/>
+      <point x="107" y="688" type="line"/>
+      <point x="360" y="792" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,29 @@
+{
+glyphname = presentationformforverticalleftsquarebracket;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(922,-31,l),
+(922,163,l),
+(76,163,l),
+(76,-31,l),
+(28,-31,l),
+(28,228,l),
+(971,228,l),
+(971,-31,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65095;
+}

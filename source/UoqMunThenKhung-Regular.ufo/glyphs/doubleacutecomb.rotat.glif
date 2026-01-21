@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="doubleacutecomb.rotat" format="2">
+  <advance width="0" height="500"/>
+  <outline>
+    <contour>
+      <point x="879" y="600" type="line"/>
+      <point x="749" y="767" type="line"/>
+      <point x="761" y="812" type="line"/>
+      <point x="897" y="694" type="line"/>
+    </contour>
+    <contour>
+      <point x="879" y="437" type="line"/>
+      <point x="749" y="604" type="line"/>
+      <point x="761" y="649" type="line"/>
+      <point x="897" y="531" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.verticalOrigin</key>
+      <integer>880</integer>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,34 @@
+{
+glyphname = fullwidthequal;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(134,274,l),
+(134,320,l),
+(857,320,l),
+(857,274,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(134,439,l),
+(134,486,l),
+(857,486,l),
+(857,439,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65309;
+}

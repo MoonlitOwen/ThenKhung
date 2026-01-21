@@ -1,0 +1,29 @@
+{
+glyphname = presentationformforverticalrighttortoiseshellbracket;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(849,524,l),
+(151,524,l),
+(17,778,l),
+(66,802,l),
+(176,588,l),
+(824,588,l),
+(933,802,l),
+(982,778,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 65082;
+}

@@ -1,0 +1,24 @@
+{
+glyphname = endash.half.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(480,880,l),
+(521,880,l),
+(521,382,l),
+(480,382,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

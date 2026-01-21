@@ -1,0 +1,24 @@
+{
+glyphname = backslash.rotat;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(40,461,l),
+(897,838,l),
+(913,797,l),
+(56,421,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 500;
+width = 1000;
+}
+);
+}

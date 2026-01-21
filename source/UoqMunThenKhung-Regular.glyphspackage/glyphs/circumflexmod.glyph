@@ -1,0 +1,27 @@
+{
+glyphname = circumflexmod;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(412,641,l),
+(248,696,l),
+(89,643,l),
+(79,689,l),
+(250,771,l),
+(421,687,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 500;
+}
+);
+unicode = 710;
+}

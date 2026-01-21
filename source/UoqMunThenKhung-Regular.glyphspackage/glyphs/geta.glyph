@@ -1,0 +1,34 @@
+{
+glyphname = geta;
+layers = (
+{
+layerId = m001;
+shapes = (
+{
+closed = 1;
+nodes = (
+(109,124,l),
+(109,268,l),
+(891,268,l),
+(891,124,l)
+);
+},
+{
+closed = 1;
+nodes = (
+(109,461,l),
+(109,606,l),
+(891,606,l),
+(891,461,l)
+);
+}
+);
+userData = {
+public.verticalOrigin = 880;
+};
+vertWidth = 1000;
+width = 1000;
+}
+);
+unicode = 12307;
+}
